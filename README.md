@@ -1,6 +1,6 @@
 IM Sounds Themes
 ===================================
-sound, emots, themes for users instant messengers
+sounds, emots, themes for users instant messengers
 
 # List
 *	1996.11.15 ICQ
@@ -40,7 +40,10 @@ These are simply sound from instant messenger.
 As the name suggests, the sounds are taken from said programs and are 
 attempted to be used appropriately.
 
-- Use best quality like WAV if it possible
+# Contribute
+* Use best quality, if possible
+	* If it's WAV, use FLAC due to compression (if the WAV file will be smaller than FLAC, you do not need to convert, of course)
+* If your file is a lossy sound format, it's best not to convert it, and if anything, then mp3 / ogg format
 
 Legal Warning
 -------------
