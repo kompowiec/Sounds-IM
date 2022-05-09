@@ -1,0 +1,572 @@
+<template>%3Cimg+alt=%22$$text$$+++$$desc$$%22+src=%22$$file$$%22+border=0+align=absmiddle%3E</template>
+
+<defs>
+
+<i i='1' g='usmiech.gif' d='Uœmiech, radoœæ, zadowolenie.' l='2' r='22' t='208' b='228'>
+   <t>:)</t>
+   <t>:-)</t>
+ </i><i i='2' g='smutas.gif' d='Smutek, przygnêbienie.' l='24' r='44' t='208' b='228'>
+   <t>:(</t>
+   <t>:-(</t>
+ </i><i i='3' g='oczko.gif' d='Puœciæ oko, figlarnie, niæ porozumienia.' l='46' r='66' t='208' b='228'>
+   <t>;)</t>
+   <t>;-)</t>
+ </i><i i='4' g='smiech.gif' d='Du¿y uœmiech, œmiech, cieszyæ siê jak dziecko.' l='68' r='88' t='208' b='228'>
+   <t>:D</t>
+   <t>:-D</t>
+ </i><i i='5' g='jezyk.gif' d='Pokazaæ komuœ jêzyk.' l='2' r='22' t='230' b='250'>
+   <t>:P</t>
+   <t>:-P</t>
+   <t>:p</t>
+   <t>:-p</t>
+ </i><i i='6' g='pechowiec.gif' d='Zmieszanie, zak³opotanie.' l='24' r='44' t='230' b='250'>
+   <t w='1'>:0</t>
+   <t>:-0</t>
+   <t>:o</t>
+   <t>:-o</t>
+   <t>:O</t>
+   <t>:-O</t>
+ </i><i i='7' g='beksa.gif' d='P³acz, ³zy, ¿al.' l='46' r='66' t='230' b='250'>
+   <t>[beksa]</t>
+ </i><i i='8' g='cool.gif' d='Patrz, jaki jestem cool. Wyluzowany.' l='68' r='88' t='230' b='250'>
+   <t>[cool]</t>
+ </i><i i='9' g='kwiatek.gif' d='Kwiatek, s³odki, wyraz sympatii i wdziêcznoœci, ewentualnie dobrego humoru.' l='2' r='22' t='252' b='272'>
+   <t>[kwiat]</t>
+   <t>[kwiatek]</t>
+ </i><i i='10' g='lapka.gif' d='Przywitanie, przyjazny gest.' l='24' r='44' t='252' b='272'>
+   <t>[czesc]</t>
+   <t>[czeœæ]</t>
+ </i><i i='11' g='serduszko.gif' d='Gor¹ce uczucie.' l='46' r='66' t='252' b='272'>
+   <t>[serce]</t>
+   <t>[love]</t>
+ </i><i i='12' g='spioch.gif' d='Spioch, sennoœæ, jeszcze ranek.' l='68' r='88' t='252' b='272'>
+   <t>[spioch]</t>
+   <t>[œpioch]</t>
+ </i><i i='13' g='usta.gif' d='Poca³unek.' l='2' r='22' t='274' b='294'>
+   <t>[usta]</t>
+   <t>[kiss]</t>
+ </i><i i='14' g='zly.gif' d='Jestem taki z³y.' l='24' r='44' t='274' b='294'>
+   <t>[zly]</t>
+   <t>[z³y]</t>
+ </i><i i='15' g='wsciekly.gif' d='Wœciek³y. I to jak.' l='46' r='66' t='274' b='294'>
+   <t>[wsciekly]</t>
+   <t>[wœciek³y]</t>
+ </i><i i='16' g='ziewanie.gif' d='Ziewam. Jestem zaspany. Ale nudy!' l='68' r='88' t='274' b='294'>
+   <t>[ziewam]</t>
+ </i><i i='17' g='pytanie.gif' d='Znak zapytania' l='90' r='110' t='208' b='228'>
+   <t>[?]</t>
+ </i><i i='18' g='pytanie2.gif' d='Dwa znaki zapytania' l='112' r='132' t='208' b='228'>
+   <t>[??]</t>
+ </i><i i='19' g='wykrzyknik.gif' d='Wykrzyknik' l='134' r='154' t='208' b='228'>
+   <t>[!]</t>
+ </i><i i='20' g='stop.gif' d='STOP' l='156' r='176' t='208' b='228'>
+   <t>[stop]</t>
+ </i><i i='21' g='ok.gif' d='OK' l='90' r='110' t='230' b='250'>
+   <t>[ok]</t>
+ </i><i i='22' g='nie.gif' d='Nie' l='112' r='132' t='230' b='250'>
+   <t>[nie]</t>
+ </i><i i='23' g='piorun.gif' d='Piorun' l='134' r='154' t='230' b='250'>
+   <t>[piorun]</t>
+ </i><i i='24' g='czaszka.gif' d='Czaszka' l='156' r='176' t='230' b='250'>
+   <t>[czaszka]</t>
+ </i><i i='25' g='mail.gif' d='Mail' l='90' r='110' t='252' b='272'>
+   <t>[mail]</t>
+ </i><i i='26' g='czas.gif' d='Czas' l='112' r='132' t='252' b='272'>
+   <t>[czas]</t>
+ </i><i i='27' g='telefon.gif' d='Telefon' l='134' r='154' t='252' b='272'>
+   <t>[telefon]</t>
+ </i><i i='28' g='komorka.gif' d='Komórka' l='156' r='176' t='252' b='272'>
+   <t>[komorka]</t>
+ </i><i i='25' g='piwo.gif' d='Piwo' l='90' r='110' t='274' b='294'>
+   <t>[piwo]</t>
+ </i><i i='26' g='jem.gif' d='Jem' l='112' r='132' t='274' b='294'>
+   <t>[jem]</t>
+ </i><i i='27' g='dom.gif' d='Dom' l='134' r='154' t='274' b='294'>
+   <t>[dom]</t>
+ </i><i i='28' g='prezent.gif' d='Prezent' l='156' r='176' t='274' b='294'>
+   <t>[prezent]</t>
+ </i>
+
+
+
+<i i='29' g='taktak.gif' d='Tak, tak' l='181' r='204' t='209' b='226'>
+   <t>[taktak]</t>
+ </i><i i='30' g='nienie.gif' d='Nie, nie' l='206' r='227' t='209' b='226'>
+   <t>[nienie]</t>
+ </i><i i='31' g='papa.gif' d='Papa' l='227' r='255' t='208' b='227'>
+   <t>[papa]</t>
+ </i><i i='32' g='beczy.gif' d='Beczy' l='257' r='281' t='208' b='227'>
+   <t>[beczy]</t>
+ </i><i i='33' g='hihi.gif' d='Hihi' l='281' r='304' t='208' b='227'>
+   <t>[hihi]</t>
+ </i><i i='34' g='mniam.gif' d='Mniam' l='305' r='328' t='208' b='229'>
+   <t>[mniam]</t>
+ </i><i i='35' g='nie_wiem.gif' d='Nie wiem' l='329' r='350' t='208' b='229'>
+   <t>[nie_wiem]</t>
+ </i><i i='36' g='ble.gif' d='Bleee' l='181' r='204' t='227' b='249'>
+   <t>[ble]</t>
+ </i><i i='37' g='diabel.gif' d='Diabe³' l='206' r='230' t='227' b='249'>
+   <t>[diabel]</t>
+ </i><i i='38' g='zdziwona.gif' d='Zdziwiona' l='230' r='261' t='229' b='249'>
+   <t>[zdziwona]</t>
+ </i><i i='39' g='niedobrze.gif' d='Niedobrze' l='262' r='286' t='229' b='250'>
+   <t>[niedobrze]</t>
+ </i><i i='40' g='strach.gif' d='Strach' l='286' r='307' t='228' b='250'>
+   <t>[strach]</t>
+ </i><i i='41' g='kreci.gif' d='Krêci' l='307' r='329' t='229' b='249'>
+   <t>[kreci]</t>
+ </i><i i='42' g='boks.gif' d='Boks' l='329' r='351' t='229' b='250'>
+   <t>[boks]</t>
+ </i><i i='43' g='luzak.gif' d='Luzak' l='181' r='206' t='251' b='272'>
+   <t>[luzak]</t>
+ </i><i i='44' g='chrapie.gif' d='Chrapie' l='211' r='237' t='251' b='272'>
+   <t>[chrapie]</t>
+ </i><i i='45' g='tanczaca.gif' d='Tañcz¹ca' l='244' r='266' t='251' b='272'>
+   <t>[tanczaca]</t>
+ </i><i i='46' g='aniolek.gif' d='Anio³ek' l='272' r='298' t='251' b='272'>
+   <t>[aniolek]</t>
+ </i><i i='47' g='hura.gif' d='Huraaa!' l='299' r='324' t='251' b='272'>
+   <t>[hura]</t>
+ </i><i i='48' g='gryz.gif' d='Gryz' l='325' r='351' t='251' b='272'>
+   <t>[gryz]</t>
+ </i><i i='49' g='gadula.gif' d='Gadu³a' l='181' r='206' t='273' b='294'>
+   <t>[gadula]</t>
+ </i><i i='50' g='gwizd.gif' d='Gwizd' l='209' r='235' t='273' b='294'>
+   <t>[gwizd]</t>
+ </i><i i='51' g='lezaca.gif' d='Le¿¹ca' l='236' r='272' t='273' b='294'>
+   <t>[lezaca]</t>
+ </i><i i='52' g='tuli.gif' d='Tuli' l='274' r='312' t='273' b='294'>
+   <t>[tuli]</t>
+ </i><i i='53' g='caluje.gif' d='Ca³uje' l='313' r='351' t='273' b='294'>
+   <t>[caluje]</t>
+ </i><i i='54' g='balwan.gif' d='Ba³wan' l='352' r='378' t='207' b='230'>
+   <t>[balwan]</t>
+ </i><i i='55' g='budzik.gif' d='Budzik' l='352' r='378' t='230' b='251'>
+   <t>[budzik]</t>
+ </i><i i='56' g='stuk.gif' d='Stuk' l='347' r='378' t='164' b='185'>
+   <t>[stuk]</t>
+ </i><i i='57' g='10ton.gif' d='10 Ton' l='347' r='378' t='185' b='207'>
+   <t>[10ton]</t>
+ </i><i i='58' g='kwitnie.gif' d='Kwitnie' l='352' r='378' t='251' b='273'>
+   <t>[kwitnie]</t>
+ </i><i i='59' g='cmok.gif' d='Cmok' l='352' r='378' t='273' b='294'>
+   <t>[cmok]</t>
+ </i>
+
+
+
+
+<i i='60' g='tak_.gif' d='Tak' l='2' r='27' t='3' b='24'>
+   <t>&lt;yes&gt;</t>
+ </i><i i='61' g='nie_.gif' d='Nie nie' l='27' r='54' t='3' b='24'>
+   <t>&lt;no&gt;</t>
+   <t>&lt;nie nie&gt;</t>
+   <t>&lt;nienie&gt;</t>
+ </i><i i='62' g='papa_.gif' d='Papa' l='56' r='86' t='3' b='24'>
+   <t>&lt;papa&gt;</t>
+   <t>&lt;pa pa&gt;</t>
+   <t>&lt;pa_pa&gt;</t>
+ </i><i i='63' g='krzywy_.gif' d='Krzywy uœmiech' l='87' r='107' t='3' b='24'>
+   <t>:]</t>
+   <t>:-]</t>
+ </i><i i='65' g='rotfl_.gif' d='Tarzaæ siê ze œmiechu' l='126' r='147' t='3' b='24'>
+   <t>&lt;rotfl&gt;</t>
+ </i><i i='66' g='usmiech3_.gif' d='Uœmiech pe³n¹ gêb¹' l='147' r='167' t='3' b='24'>
+   <t>&lt;:D&gt;</t>
+   <t>&lt;:-D&gt;</t>
+ </i><i i='67' g='usmiech4_.gif' d='Uœmiech szczerbatego' l='167' r='185' t='3' b='24'>
+   <t>&lt;:F&gt;</t>
+   <t>&lt;:-F&gt;</t>
+   <t>&lt;:f&gt;</t>
+   <t>&lt;:-f&gt;</t>
+ </i><i i='68' g='10ton_.gif' d='10 ton' l='185' r='209' t='3' b='24'>
+   <t>&lt;10ton&gt;</t>
+   <t>&lt;10 ton&gt;</t>
+ </i><i i='69' g='boje_sie_.gif' d='Bojê siê' l='209' r='229' t='3' b='24'>
+   <t>&lt;bojê_siê&gt;</t>
+   <t>&lt;bojê_sie&gt;</t>
+   <t>&lt;boje_siê&gt;</t>
+   <t>&lt;boje_sie&gt;</t>
+   <t>&lt;boje sie&gt;</t>
+   </i><i i='70' g='calus_.gif' d='Ca³us' l='230' r='265' t='3' b='24'>
+   <t>&lt;ca³us&gt;</t>
+   <t>&lt;calus&gt;</t>
+   <t>&lt;ca³uje&gt;</t>
+   <t>&lt;caluje&gt;</t>
+ </i><i i='71' g='cmok_.gif' d='Cmok' l='265' r='285' t='3' b='24'>
+   <t>&lt;cmok&gt;</t>
+   <t>&lt;cmook&gt;</t>
+   <t>&lt;cmoook&gt;</t>
+ </i><i i='72' g='usta_.gif' d='Usta' l='285' r='307' t='3' b='24'>
+   <t>&lt;usta&gt;</t>
+ </i><i i='73' g='roza_.gif' d='Ró¿a' l='307' r='324' t='3' b='24'>
+   <t>&lt;ro¿a&gt;</t>
+   <t>&lt;roza&gt;</t>
+ </i><i i='74' g='jupi_.gif' d='Jupi, huraaa!' l='323' r='353' t='3' b='25'>
+   <t>&lt;jupi&gt;</t>
+   <t>&lt;huraaa&gt;</t>
+   <t>&lt;huraaa!&gt;</t>
+   <t>&lt;hura&gt;</t>
+   <t>&lt;yupi&gt;</t>
+   <t>&lt;yupi!&gt;</t>
+   <t>&lt;jupi&gt;</t>
+   <t>&lt;jupi!&gt;</t>
+ </i><i i='75' g='dom_.gif' d='Dom' l='352' r='377' t='3' b='24'>
+   <t>&lt;dom&gt;</t>
+ </i><i i='76' g='ok_.gif' d='OK' l='2' r='31' t='24' b='47'>
+   <t>&lt;ok&gt;</t>
+   <t>&lt;OK&gt;</t>
+   <t>&lt;Ok&gt;</t>
+   <t>&lt;spoko&gt;</t>
+   <t>&lt;spox&gt;</t>
+ </i><i i='77' g='nie2_.gif' d='Nie, odpada' l='30' r='57' t='24' b='47'>
+   <t>&lt;nie&gt;</t>
+   <t>&lt;odpada&gt;</t>
+ </i><i i='78' g='pa_.gif' d='Pa! Do zobaczenia!' l='56' r='87' t='23' b='45'>
+   <t>&lt;pa&gt;</t>
+ </i><i i='79' g='lol_.gif' d='G³oœny œmiech' l='87' r='108' t='24' b='45'>
+   <t>&lt;lol&gt;</t>
+ </i><i i='80' g='haha_.gif' d='Œmiech' l='108' r='130' t='24' b='45'>
+   <t>&lt;hahaha&gt;</t>
+   <t>&lt;smiech&gt;</t>
+   <t>&lt;œmiech&gt;</t>
+ </i><i i='81' g='usmiech2_.gif' d='Uœmiech' l='130' r='150' t='24' b='45'>
+   <t>&lt;wesoly&gt;</t>
+   <t>&lt;uœmiech&gt;</t>
+ </i><i i='82' g='zeby_.gif' d='Piêkny uœmiech mam' l='151' r='171' t='24' b='45'>
+   <t>&lt;zêby&gt;</t>
+   <t>&lt;zeby&gt;</t>
+   <t>:E</t>
+   <t>:-E</t>
+ </i><i i='83' g='stop_.gif' d='Stop! Przestañ' l='171' r='209' t='24' b='45'>
+   <t>&lt;stop&gt;</t>
+   <t>&lt;stop!&gt;</t>
+   <t>&lt;przestañ&gt;</t>
+   <t>&lt;przestan&gt;</t>
+ </i><i i='84' g='strach_.gif' d='Strach' l='209' r='229' t='24' b='45'>
+  <t>&lt;bojê siê&gt;</t>
+ <t>&lt;bojê sie&gt;</t>
+   <t>&lt;boje siê&gt;</t>
+   </i><i i='85' g='list_.gif' d='Mail, list' l='233' r='263' t='24' b='45'>
+  <t>&lt;list&gt;</t>
+  <t>&lt;mail&gt;</t>
+ </i><i i='86' g='serduszka_.gif' d='Serduszka' l='263' r='287' t='24' b='45'>
+  <t>&lt;serduszka&gt;</t>
+  <t>&lt;serduszko&gt;</t>
+  <t>&lt;serca&gt;</t>
+  <t>&lt;serce&gt;</t>
+ </i><i i='87' g='oczko_.gif' d='Puœciæ oczko' l='287' r='306' t='24' b='45'>
+  <t>&lt;mruga&gt;</t>
+ </i><i i='88' g='kwitnie_.gif' d='Kwitnie' l='306' r='324' t='24' b='45'>
+  <t>&lt;kwiatek&gt;</t>
+ </i><i i='89' g='tancze_.gif' d='Tañcze, weso³o mi' l='324' r='355' t='24' b='45'>
+  <t>&lt;tancze&gt;</t>
+  <t>&lt;tañcze&gt;</t>
+ </i><i i='90' g='prezent_.gif' d='Niespodzianka, prezent' l='355' r='377' t='24' b='45'>
+ <t>&lt;prezent&gt;</t>
+ <t>&lt;niespodzianka&gt;</t>
+ </i><i i='91' g='piwo_.gif' d='Piwo' l='2' r='43' t='46' b='66'>
+ <t>&lt;piwo&gt;</t>
+ <t>&lt;stuk&gt;</t>
+</i><i i='92' g='jezyk2_.gif' d='Mniam, pycha' l='43' r='67' t='46' b='66'>
+ <t>&lt;mniam&gt;</t>
+ <t>&lt;pycha&gt;</t>
+</i><i i='93' g='tuptup_.gif' d='Idê' l='67' r='93' t='44' b='66'>
+ <t>&lt;idê&gt;</t>
+ <t>&lt;ide&gt;</t>
+ <t>&lt;idzie&gt;</t>
+ <t>&lt;tuptup&gt;</t>
+</i><i i='94' g='faja_.gif' d='Faja' l='93' r='120' t='44' b='66'>
+ <t>&lt;faja&gt;</t>
+ <t>&lt;fajka&gt;</t>
+ <t>&lt;palê&gt;</t>
+ <t>&lt;pale&gt;</t>
+ <t>&lt;pali&gt;</t>
+ <t>&lt;paliæ&gt;</t>
+ <t>&lt;palic&gt;</t>
+</i><i i='95' g='paker_.gif' d='Paker. Taki jestem silny!' l='120' r='161' t='44' b='67'>
+ <t>&lt;paker&gt;</t>
+ <t>&lt;silacz&gt;</t>
+ <t>&lt;si³acz&gt;</t>
+ <t>&lt;silny&gt;</t>
+</i><i i='96' g='uczen_.gif' d='Uczeñ, student' l='161' r='188' t='45' b='67'>
+ <t>&lt;uczeñ&gt;</t>
+ <t>&lt;uczen&gt;</t>
+ <t>&lt;student&gt;</t>
+</i><i i='97' g='aniolek_.gif' d='Anio³ek. Jestem niewinny.' l='188' r='229' t='45' b='69'>
+ <t>&lt;anio³ek&gt;</t>
+ <t>&lt;aniolek&gt;</t>
+ <t>&lt;anio³&gt;</t>
+ <t>&lt;aniol&gt;</t>
+ <t>&lt;niewinny&gt;</t>
+ <t>&lt;niewinna&gt;</t>
+</i><i i='98' g='lezaca_.gif' d='ChodŸ do mnie!' l='229' r='267' t='45' b='68'>
+<t>&lt;le¿¹ca&gt;</t>
+<t>&lt;lez¹ca&gt;</t>
+<t>&lt;le¿aca&gt;</t>
+<t>&lt;lezaca&gt;</t>
+<t>&lt;chodz&gt;</t>
+<t>&lt;chodŸ&gt;</t>
+</i><i i='99' g='gwizd_.gif' d='Gwi¿dzê sobie' l='267' r='300' t='45' b='68'>
+<t>&lt;gwizd&gt;</t>
+</i><i i='100' g='przytul_.gif' d='Przytulanie' l='300' r='342' t='45' b='68'><t>&lt;przytul&gt;</t>
+<t>&lt;przytulanie&gt;</t>
+</i><i i='101' g='uscisk_.gif' d='Uœcisk' l='343' r='376' t='45' b='67'>
+<t>&lt;uœcisk&gt;</t>
+<t>&lt;uscisk&gt;</t>
+</i><i i='102' g='soczek_.gif' d='Soczek' l='2' r='41' t='66' b='88'>
+<t>&lt;soczek&gt;</t>
+</i><i i='103' g='zjem_.gif' d='Zjem Ciê' l='41' r='71' t='66' b='88'>
+<t>&lt;zjem&gt;</t>
+</i><i i='104' g='chytry_.gif' d='Chytry' l='71' r='93' t='66' b='88'>
+<t>:&gt;</t>
+</i><i i='105' g='cwaniak_.gif' d='Cwaniak' l='93' r='119' t='65' b='88'>
+<t>&lt;cwaniak&gt;</t>
+<t>&lt;cfaniak&gt;</t>
+<t>&lt;cool&gt;</t>
+</i><i i='106' g='samochod_.gif' d='Bryka, auto' l='119' r='160' t='66' b='88'>
+<t>&lt;bryka&gt;</t>
+<t>&lt;auto&gt;</t>
+<t>&lt;samochód&gt;</t>
+<t>&lt;samochod&gt;</t>
+</i><i i='107' g='czarodziej_.gif' d='Czarodziej, magik' l='160' r='194' t='66' b='90'>
+<t>&lt;czarodziej&gt;</t>
+<t>&lt;magik&gt;</t>
+</i><i i='108' g='diabelek_.gif' d='Diabe³ek' l='194' r='222' t='68' b='91'>
+<t>]:-&gt;</t>
+<t>&lt;diabelek&gt;</t>
+<t>&lt;diabe³&gt;</t>
+<t>&lt;diabel&gt;</t>
+</i><i i='109' g='sex_.gif' d='Seks' l='223' r='263' t='66' b='91'>
+<t>&lt;sex&gt;</t>
+<t>&lt;seks&gt;</t>
+</i><i i='110' g='spie_.gif' d='Œpi' l='262' r='301' t='66' b='91'>
+<t>&lt;œpioch&gt;</t>
+<t>&lt;spi&gt;</t>
+<t>&lt;sen&gt;</t>
+</i><i i='111' g='glaszcze_.gif' d='G³aszcze' l='300' r='345' t='67' b='89'>
+<t>&lt;g³aszcze&gt;</t>
+<t>&lt;glaszcze&gt;</t>
+<t>&lt;cacy&gt;</t>
+</i><i i='112' g='3m_sie_.gif' d='Trzymaj siê' l='345' r='376' t='66' b='89'>
+<t>&lt;3m_siê&gt;</t>
+<t>&lt;3m_sie&gt;</t>
+<t>&lt;3m siê&gt;</t>
+<t>&lt;3m sie&gt;</t>
+<t>&lt;3msiê&gt;</t>
+<t>&lt;3msie&gt;</t>
+<t>&lt;trzymsie&gt;</t>
+<t>&lt;trzymsiê&gt;</t>
+<t>&lt;trzymaj_siê&gt;</t>
+<t>&lt;trzymaj_sie&gt;</t>
+<t>&lt;trzymaj siê&gt;</t>
+<t>&lt;trzymaj sie&gt;</t>
+</i><i i='113' g='kiler_.gif' d='Kiler' l='2' r='50' t='89' b='110'>
+<t>&lt;killer&gt;</t>
+<t>&lt;kiler&gt;</t>
+<t>&lt;strzela&gt;</t>
+</i><i i='114' g='czaszka_.gif' d='Czaszka' l='50' r='72' t='88' b='110'>
+<t>&lt;czaszka&gt;</t>
+</i><i i='115' g='zly_.gif' d='Z³y jestem. Bardzo.' l='71' r='93' t='88' b='110'>
+<t>&lt;z³y&gt;</t>
+<t>&lt;zly&gt;</t>
+</i><i i='116' g='fuck_.gif' d='Fuck' l='93' r='122' t='88' b='110'>
+<t>&lt;spadówa&gt;</t>
+</i><i i='117' g='kreci_.gif' d='Krêci' l='122' r='146' t='89' b='111'>
+<t>&lt;krêci&gt;</t>
+<t>&lt;kreci&gt;</t>
+</i><i i='118' g='wow_.gif' d='Wow!' l='146' r='170' t='89' b='111'>
+<t>&lt;wow&gt;</t>
+<t>&lt;wow!&gt;</t>
+</i><i i='119' g='co_.gif' d='Co?' l='169' r='197' t='89' b='111'>
+<t>&lt;co&gt;</t>
+<t>&lt;co?&gt;</t>
+</i><i i='120' g='slonko_.gif' d='S³onko' l='196' r='221' t='90' b='112'>
+<t>&lt;s³onko&gt;</t>
+<t>&lt;slonko&gt;</t>
+<t>&lt;s³oñce&gt;</t>
+<t>&lt;sloñce&gt;</t>
+<t>&lt;s³once&gt;</t>
+<t>&lt;slonce&gt;</t>
+</i><i i='121' g='nie_powiem_.gif' d='Nie powiem!' l='220' r='240' t='90' b='112'>
+<t>&lt;nie_powiem&gt;</t>
+<t>&lt;nie_powiem&gt;</t>
+<t>&lt;niepowiem&gt;</t>
+<t>&lt;nie_powie&gt;</t>
+<t>&lt;milcze&gt;</t>
+<t>&lt;milczê&gt;</t>
+</i><i i='122' g='menu_.gif' d='Menu' l='241' r='261' t='90' b='112'>
+<t>&lt;menu&gt;</t>
+</i><i i='123' g='nie_wiem_.gif' d='Nie wiem' l='261' r='289' t='90' b='112'>
+<t>&lt;nie_wiem&gt;</t>
+<t>&lt;niewiem&gt;</t>
+</i><i i='124' g='oczy_.gif' d='K³amie' l='289' r='309' t='90' b='112'>
+<t>&lt;k³amie&gt;</t>
+<t>&lt;klamie&gt;</t>
+<t>&lt;k³amczuch&gt;</t>
+<t>&lt;klamczuch&gt;</t>
+</i><i i='125' g='pytajnik_.gif' d='Znak zapytania' l='309' r='326' t='89' b='112'>
+<t>&lt;??&gt;</t>
+</i><i i='126' g='piorun_.gif' d='Piorun' l='324' r='338' t='89' b='112'>
+<t>&lt;piorun&gt;</t>
+</i><i i='127' g='wykrzyknik_.gif' d='Wykrzyknik' l='337' r='349' t='89' b='112'>
+<t>&lt;!!&gt;</t>
+</i><i i='128' g='peace_.gif' d='Pokój, peace' l='349' r='377' t='88' b='112'>
+<t>&lt;peace&gt;</t>
+<t>&lt;pokój&gt;</t>
+<t>&lt;pokoj&gt;</t>
+</i><i i='129' g='klotnia_.gif' d='K³ótnia' l='2' r='43' t='111' b='132'>
+<t>&lt;k³ótnia&gt;</t>
+<t>&lt;klótnia&gt;</t>
+<t>&lt;k³otnia&gt;</t>
+<t>&lt;klotnia&gt;</t>
+</i><i i='130' g='wsciekly_.gif' d='Wœciek³y' l='43' r='65' t='111' b='132'>
+<t>&lt;wœciek³y&gt;</t>
+<t>&lt;grr&gt;</t>
+<t>&lt;gr&gt;</t>
+<t>&lt;wœciek³y&gt;</t>
+<t>&lt;wsciek³y&gt;</t>
+<t>&lt;wœciekly&gt;</t>
+<t>&lt;wsciekly&gt;</t>
+</i><i i='131' g='boks_.gif' d='Boks. Uwa¿aj, bo dostaniesz!' l='65' r='100' t='110' b='133'>
+<t>&lt;boks&gt;</t>
+<t>&lt;bije&gt;</t>
+<t>&lt;bij&gt;</t>
+</i><i i='132' g='dupa_.gif' d='[bez komentarza]' l='100' r='127' t='110' b='133'>
+<t>&lt;dupa&gt;</t>
+<t>&lt;pupa&gt;</t>
+</i><i i='133' g='niedobrze_.gif' d='Niedobrze mi' l='127' r='151' t='110' b='133'>
+<t>&lt;niedobrze&gt;</t>
+</i><i i='134' g='sciana_.gif' d='G³ow¹ w mur' l='151' r='182' t='110' b='134'>
+<t>&lt;mur&gt;</t>
+<t>&lt;sciana&gt;</t>
+<t>&lt;œciana&gt;</t>
+</i><i i='135' g='pomocy_.gif' d='Pomocy! Help!' l='182' r='220' t='110' b='134'>
+<t>&lt;pomocy&gt;</t>
+<t>&lt;pomocy!&gt;</t>
+<t>&lt;help&gt;</t>
+<t>&lt;help!&gt;</t>
+</i><i i='136' g='co_jest_.gif' d='Co jest?' l='220' r='240' t='111' b='134'>
+<t>&lt;co_jest&gt;</t>
+<t>&lt;co jest&gt;</t>
+</i><i i='137' g='kwasny_.gif' d='Niesmak' l='240' r='262' t='111' b='134'>
+<t>&lt;zniesmaczony&gt;</t>
+<t>&lt;kwasny&gt;</t>
+</i><i i='138' g='ysz_.gif' d='Nie rozumiem' l='262' r='284' t='111' b='134'>
+<t>:|</t>
+<t>&lt;nie_rozumiem&gt;</t>
+<t>&lt;nie rozumiem&gt;</t>
+</i><i i='139' g='zmieszanie_.gif' d='Zmieszanie' l='284' r='306' t='111' b='134'>
+<t>&lt;zmieszanie&gt;</t>
+</i><i i='140' g='zawstydzony_.gif' d='Wstyd. Wstydzê siê.' l='306' r='327' t='111' b='134'>
+<t>&lt;wstydniœ&gt;</t>
+<t>&lt;zawstydzony&gt;</t>
+</i><i i='141' g='smutny_.gif' d='Smutny' l='327' r='349' t='111' b='134'>
+<t>&lt;smutny&gt;</t>
+</i><i i='142' g='placze_.gif' d='P³acz, beksa' l='348' r='377' t='111' b='134'>
+<t>;(</t>
+<t>&lt;placz&gt;</t>
+<t>&lt;placze&gt;</t>
+<t>&lt;beksa&gt;</t>
+</i><i i='143' g='telefon2_.gif' d='Telefon' l='2' r='28' t='133' b='159'>
+<t>&lt;dzwoni&gt;</t>
+</i><i i='144' g='telefon_.gif' d='Gadu³a' l='27' r='53' t='133' b='159'>
+<t>&lt;telefon&gt;</t>
+<t>&lt;gadula&gt;</t>
+<t>&lt;telefonuje&gt;</t>
+<t>&lt;telefonujê&gt;</t>
+</i><i i='145' g='komora_.gif' d='Komóra' l='52' r='71' t='134' b='159'>
+<t>&lt;komóra&gt;</t>
+<t>&lt;komora&gt;</t>
+</i><i i='146' g='czas_.gif' d='Czas, budzik' l='71' r='96' t='133' b='159'>
+<t>&lt;czas&gt;</t>
+<t>&lt;budzik&gt;</t>
+</i><i i='147' g='balwan_.gif' d='Ba³wan' l='96' r='122' t='133' b='159'>
+<t>&lt;ba³wan&gt;</t>
+<t>&lt;balwan&gt;</t>
+</i><i i='148' g='glupek_.gif' d='G³upek' l='121' r='148' t='133' b='159'>
+<t>&lt;g³upek&gt;</t>
+<t>&lt;glupek&gt;</t>
+</i><i i='149' g='jezyk_.gif' d='Bleee' l='148' r='167' t='134' b='159'>
+<t>;P</t>
+<t>&lt;blee&gt;</t>
+<t>&lt;ble&gt;</t>
+</i><i i='150' g='prysznic_.gif' d='Prysznic' l='166' r='201' t='133' b='159'>
+<t>&lt;prysznic&gt;</t>
+</i><i i='151' g='pisze_.gif' d='Czatownik' l='201' r='240' t='133' b='159'>
+<t>&lt;chatownik&gt;</t>
+<t>&lt;czatownik&gt;</t>
+<t>&lt;klika&gt;</t>
+<t>&lt;pisze&gt;</t>
+<t>&lt;czatuje&gt;</t>
+</i><i i='152' g='czytaj_.gif' d='Czytaj to!' l='239' r='275' t='133' b='159'>
+<t>&lt;czytaj&gt;</t>
+<t>&lt;czytaj_to&gt;</t>
+</i><i i='153' g='cisza_.gif' d='Cisza!' l='274' r='310' t='133' b='159'>
+<t>&lt;cisza&gt;</t>
+<t>&lt;cisza!&gt;</t>
+</i><i i='154' g='czyta_.gif' d='Czyta, uczy siê' l='309' r='341' t='133' b='159'>
+<t>&lt;czyta gazete&gt;</t>
+<t>&lt;uczy_siê&gt;</t>
+<t>&lt;uczy_sie&gt;</t>
+<t>&lt;uczy&gt;</t>
+</i><i i='155' g='jem_.gif' d='Jem' l='341' r='377' t='133' b='159'>
+<t>&lt;jem&gt;</t>
+<t>&lt;je&gt;</t>
+</i><i i='156' g='usmiech_b.gif' d='Uœmiech' l='6' r='46' t='165' b='203'>
+<t>&lt;UŒMIECH&gt;</t>
+<t>&lt;USMIECH&gt;</t>
+</i><i i='157' g='smutny_b.gif' d='Smutny' l='46' r='86' t='165' b='203'>
+<t>&lt;SMUTNY&gt;</t>
+</i><i i='158' g='wsciekly_b.gif' d='Z³y, wœciek³y' l='86' r='126' t='165' b='203'>
+<t>&lt;Z£Y&gt;</t>
+<t>&lt;ZLY&gt;</t>
+<t>&lt;WŒCIEK£Y&gt;</t>
+<t>&lt;WSCIEK£Y&gt;</t>
+<t>&lt;WŒCIEKLY&gt;</t>
+<t>&lt;WSCIEKLY&gt;</t>
+</i><i i='159' g='spacer_b.gif' d='Spacer z psem' l='126' r='185' t='165' b='203'>
+<t>&lt;SPACER&gt;</t>
+</i><i i='160' g='jem_b.gif' d='Jem' l='184' r='235' t='165' b='203'>
+<t>&lt;JEM&gt;</t>
+</i><i i='161' g='mail_b.gif' d='Mail, list' l='233' r='278' t='165' b='203'>
+<t>&lt;MAIL&gt;</t>
+<t>&lt;LIST&gt;</t>
+</i><i i='162' g='kwiatek_b.gif' d='Kwiatek' l='278' r='310' t='165' b='203'>
+<t>&lt;KWIATEK&gt;</t>
+</i><i i='163' g='telefon_b.gif' d='Telefon' l='310' r='344' t='165' b='203'>
+<t>&lt;TELEFON&gt;</t>
+</i>
+<i i='164' g='usmiech1_.gif' d='He he, ironicznie' l='106' r='126' t='3' b='24'>
+   <t>:-&gt;</t>
+   <t>:-&gt;</t>
+ </i>
+<i i='165' g='bicz_.gif' d='Bicz' l='376' r='415' t='3' b='24'>
+	<t>[bicz]</t>	
+	<t>[dawaj]</t>
+</i>
+<i i='166' g='deszcz_.gif' d='Deszcz' l='376' r='415' t='24' b='45'>
+	<t>[deszcz]</t>	
+</i>
+<i i='167' g='lasic_sie_.gif' d='G³askanie' l='376' r='415' t='45' b='67'>
+	<t>[glaskanie]</t>	
+	<t>[lasicsie]</t>
+</i>
+<i i='168' g='lisc_.gif' d='W twarz !?!' l='375' r='415' t='66' b='89'>
+	<t>[zliscia]</t>	
+	<t>[wtwarz]</t>
+	<t>[ozon]</t>
+</i>
+<i i='169' g='mowic_wyzywajaco_.gif' d='Solówka' l='376' r='415' t='88' b='112'>
+	<t>[wyzywajaco]</t>	
+</i>
+<i i='170' g='solarium_.gif' d='Rozpakowany i opalony' l='376' r='415' t='111' b='134'>
+	<t>[solarium]</t>	
+	<t>[dres]</t>
+	<t>[eis]</t>
+</i>
+<i i='171' g='telewizor_.gif' d='Ogl¹dam mecz' l='376' r='415' t='133' b='159'>
+	<t>[tv]</t>	
+</i>
+
+</defs>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<wpmsg>
+	<soundschemas v="2" default="natura">
+		<schema id="natura" name="Natura (domyślny)">
+			<act event="cadd" on="yes" do="play" res="yes">sound.dll/WAVE/#1</act>
+			<act event="cauth" on="yes" do="play" res="yes">sound.dll/WAVE/#2</act>
+			<act event="cavail" on="yes" do="play" pri="-1" res="yes">sound.dll/WAVE/#3</act>
+			<act event="error" on="yes" do="play" res="yes">sound.dll/WAVE/#4</act>
+			<act event="fauth" on="yes" do="play" res="yes">sound.dll/WAVE/#5</act>
+			<act event="fend" on="yes" do="play" res="yes">sound.dll/WAVE/#6</act>
+			<act event="ftrans" on="yes" do="play" res="yes">sound.dll/WAVE/#7</act>
+			<act event="newmail" on="yes" do="play" res="yes">sound.dll/WAVE/#8</act>
+			<act event="keydel" on="no" do="play" res="yes">sound.dll/WAVE/#9</act>
+			<act event="keypress" on="no" do="play" res="yes">sound.dll/WAVE/#10</act>
+			<act event="keyreturn" on="yes" do="play" res="yes">sound.dll/WAVE/#11</act>
+			<act event="msgnew" on="yes" do="play" res="yes">sound.dll/WAVE/#12</act>
+			<act event="msgsent" on="yes" do="play" res="yes">sound.dll/WAVE/#13</act>
+			<act event="online" on="yes" do="play" pri="-1" res="yes">sound.dll/WAVE/#14</act>
+			<act event="search" on="yes" do="play" res="yes">sound.dll/WAVE/#15</act>
+			<act event="sms" on="yes" do="play" res="yes">sound.dll/WAVE/#16</act>
+			<act event="voipnew" on="yes" do="play" loop="yes" pri="1" res="yes">sound.dll/WAVE/#17</act>
+			<act event="voipcall" on="yes" do="play" loop="yes" pri="1" res="yes">sound.dll/WAVE/#18</act>
+			<act event="voipbusy" on="yes" do="play" pri="1" res="yes">sound.dll/WAVE/#19</act>
+			<act event="voiperr" on="yes" do="play" pri="1" res="yes">sound.dll/WAVE/#20</act>
+			<act event="msgchat" on="yes" do="play" res="yes">sound.dll/WAVE/#12</act>
+			<act event="chatinvite" on="yes" do="play" res="yes">sound.dll/WAVE/#12</act>
+		</schema>
+	</soundschemas>
+</wpmsg>

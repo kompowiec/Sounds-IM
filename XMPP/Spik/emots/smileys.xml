@@ -1,0 +1,1869 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<wpmsg xmlns="wpmsg:systemsettings">
+	<desc>Zestaw Spik + emotikony ClickSmilies</desc>
+	<set>Spik Normal</set>
+	<smileys category="Aniołki">
+		<smiley res="smileys.dll/GIF/#1" alt="Aniołek z aureolką">
+			<item emot="yes">0:-)</item>
+			<item emot="no">anioł</item>
+			<item emot="no">aniol</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#2" alt="Zapomarańczowiony aniołek">
+			<item emot="no">aniołek</item>
+			<item emot="no">aniolek</item>
+			<item emot="yes">::angel::</item>
+			<item emot="yes">::engel::</item>
+			<item emot="yes">::ange::</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#3" alt="Zadowolony aniołek">
+			<item emot="yes">08)</item>
+			<item emot="yes">O:)</item>
+		</smiley>
+	</smileys>
+	<smileys category="Diabełki">
+		<smiley res="smileys.dll/GIF/#4" alt="Diabełek mrugający oczkami">
+			<item emot="yes">}:-|</item>
+			<item emot="no">diabeł</item>
+			<item emot="no">diabel</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#5" alt="Uśmiechnięty diabełek z bródką">
+			<item emot="yes">]:-&gt;</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#6" alt="Diabełek grabko-ogrodnik">
+			<item emot="no">diabeł_grabie</item>
+			<item emot="no">diabel_grabie</item>
+			<item emot="yes">::devil::</item>
+			<item emot="yes">::duivel::</item>
+			<item emot="yes">::diable::</item>
+		</smiley>
+	</smileys>
+	<smileys category="Gesty">
+		<smiley res="smileys.dll/GIF/#7" alt="Dupciowy kręciołek">
+			<item emot="no">goladupa</item>
+			<item emot="no">goładupa</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#8" alt="Żegnaj (machu-machu)">
+			<item emot="no">papa</item>
+			<item emot="yes">[papa]</item>
+			<item emot="yes">zlezka</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#9" alt="Psycho-bzikus">
+			<item emot="no">bzikus</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#10" alt="mrugnięcie">
+			<item emot="yes">;-))</item>
+			<item emot="yes">;-)))</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#11" alt="Spadówa">
+			<item emot="no">spadówa</item>
+			<item emot="no">spadowa</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#12" alt="Puknij się">
+			<item emot="no">niedowiarek</item>
+			<item emot="no">puknij się</item>
+			<item emot="no">puknij sie</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#13" alt="fuck U">
+			<item emot="no">fuck U</item>
+			<item emot="no">fuck u</item>
+			<item emot="no">Fuck U</item>
+			<item emot="no">Fuck u</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#14" alt="To Ty, to Ty, to Ty...">
+			<item emot="no">ty</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#15" alt="Do widzenia">
+			<item emot="no">do widzenia</item>
+			<item emot="no">do_widzenia</item>
+			<item emot="no">bye</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#16" alt="mrugnięcie">
+			<item emot="yes">;-)</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#17" alt="Heej">
+			<item emot="no">heej</item>
+			<item emot="no">czesc</item>
+			<item emot="no">hello</item>
+			<item emot="no">helo</item>
+			<item emot="no">cześć</item>
+			<item emot="no">witaj</item>
+			<item emot="yes">[cześć]</item>
+			<item emot="yes">[czesc]</item>
+			<item emot="no">hejka</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#18" alt="Pupo-machajew" hidden="yes">
+			<item emot="no">pupa</item>
+			<item emot="no">pupa_taniec</item>
+			<item emot="no">pupa_dance</item>
+			<item emot="no">dupa2</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#19" alt="Dupa" hidden="yes">
+			<item emot="no">dupa</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#20" alt="Nie powiem!">
+			<item emot="no">nie powiem</item>
+			<item emot="no">nie_powiem</item>
+			<item emot="yes">:-x</item>
+			<item emot="yes">:-X</item>
+			<item emot="no">milczek</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#21" alt="Otwarte dłonie i uśmiech płonie">
+			<item emot="no">otwarte_łapki</item>
+			<item emot="no">otwarte_lapki</item>
+			<item emot="no">przywitanie</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#22" alt="Yo man!">
+			<item emot="no">yo</item>
+			<item emot="no">luz</item>
+			<item emot="no">wyluzuj</item>
+			<item emot="no">light</item>
+			<item emot="no">lajt</item>
+			<item emot="no">luzik</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#23" alt="Jest super">
+			<item emot="no">super</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#24" alt="Pokój z Wami">
+			<item emot="no">peace</item>
+			<item emot="no">pokój</item>
+			<item emot="no">pokoj</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#25" alt="Fiku miku, odejdź zbereźniku">
+			<item emot="no">yellowfucku</item>
+			<item emot="no">spadaj</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#26" alt="Wściekły">
+			<item emot="no">wściekły</item>
+			<item emot="no">wsciekly</item>
+			<item emot="yes">[wściekły]</item>
+			<item emot="yes">[wsciekly]</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#27" alt="Z radością się z Tobą pożegnam">
+			<item emot="yes">fuck you :)</item>
+			<item emot="yes">fuck out</item>
+			<item emot="no">fuck wesołe</item>
+			<item emot="no">fuck:)</item>
+			<item emot="no">fuck u :)</item>
+			<item emot="no">fuck wesole</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#28" alt="Spox">
+			<item emot="no">spox</item>
+			<item emot="no">spoks</item>
+			<item emot="no">spoko</item>
+			<item emot="no">okok</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#29" alt="Do bani">
+			<item emot="no">do bani</item>
+			<item emot="no">do_bani</item>
+			<item emot="yes">::no::</item>
+			<item emot="yes">::nee::</item>
+			<item emot="yes">::neen::</item>
+			<item emot="yes">::non::</item>
+			<item emot="yes">[nie]</item>
+			<item emot="no">dno</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#30" alt="OK">
+			<item emot="no">ok</item>
+			<item emot="no">OK</item>
+			<item emot="no">Ok</item>
+			<item emot="no">oK</item>
+			<item emot="yes">::yes::</item>
+			<item emot="yes">::ja::</item>
+			<item emot="yes">::oui::</item>
+			<item emot="yes">[ok]</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#31" alt="Mrugam i puszczam oczko">
+			<item emot="no">oczko</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#32" alt="UPS!" hidden="yes">
+			<item emot="no">gafa</item>
+			<item emot="no">ups</item>
+			<item emot="no">UPS</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#33" alt="Szeptamy sobie">
+			<item emot="no">szept</item>
+			<item emot="no">sekret</item>
+			<item emot="no">plotki</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#34" alt="brawo">
+			<item emot="no">brawo</item>
+			<item emot="no">brawa</item>
+			<item emot="no">aplauz</item>
+			<item emot="no">hura</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#35" alt="Jestem Miś - Uszatek Miś">
+			<item emot="no">uszatek</item>
+			<item emot="no">uszy</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#36" alt="Papa na dwie ręce">
+			<item emot="no">papapa</item>
+			<item emot="yes">papapa</item>
+			<item emot="no">3m się</item>
+			<item emot="no">spadam</item>
+			<item emot="yes">papa2</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#37" alt="Nonono">
+			<item emot="no">nonono</item>
+			<item emot="no">nono</item>
+			<item emot="no">nie!</item>
+			<item emot="no">nie wolno</item>
+			<item emot="no">nie_wolno</item>
+			<item emot="no">plask</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#38" alt="Cisza!!">
+			<item emot="no">cisza</item>
+			<item emot="no">cicho</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#39" alt="NIE!">
+			<item emot="no">nie</item>
+			<item emot="yes">niee</item>
+			<item emot="no">no</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#40" alt="TAK!">
+			<item emot="no">tak</item>
+			<item emot="yes">tiaaa</item>
+			<item emot="no">yes</item>
+			<item emot="no">TAK</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#41" alt="Olaboga">
+			<item emot="no">olaboga</item>
+			<item emot="no">rwie włosy</item>
+			<item emot="no">rwie wlosy</item>
+			<item emot="no">rwie_włosy</item>
+			<item emot="no">rwie_wlosy</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#42" alt="Mruga">
+			<item emot="no">mruga</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#43" alt="Mruga">
+			<item emot="yes">-;)</item>
+			<item emot="yes">;))))</item>
+			<item emot="yes">;)=</item>
+		</smiley>
+	</smileys>
+	<smileys category="Gwiezdne wojny" />
+	<smileys category="Impreza">
+		<smiley res="smileys.dll/GIF/#44" alt="Prezent">
+			<item emot="no">prezent</item>
+			<item emot="yes">(G)</item>
+			<item emot="no">green_prezent</item>
+			<item emot="yes">[prezent]</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#45" alt="tort">
+			<item emot="no">tort</item>
+			<item emot="yes">(^)</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#46" alt="Rączki nad główkę i klaszczemy...">
+			<item emot="no">klaszczę</item>
+			<item emot="no">klaszcze</item>
+			<item emot="no">klaszcz</item>
+			<item emot="no">oklaski</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#47" alt="Urodziny">
+			<item emot="no">urodziny</item>
+			<item emot="no">świeczka</item>
+			<item emot="no">swieczka</item>
+			<item emot="no">zdmuchnij tort</item>
+			<item emot="no">zdmuchnij_tort</item>
+			<item emot="no">birthday</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#48" alt="Niespodzianka">
+			<item emot="no">niespodzianka</item>
+			<item emot="no">surprise</item>
+			<item emot="no">z pudełka</item>
+			<item emot="no">z_pudełka</item>
+			<item emot="no">z pudelka</item>
+			<item emot="no">z_pudelka</item>
+		</smiley>
+	</smileys>
+	<smileys category="Jedzenie i Picie">
+		<smiley res="smileys.dll/GIF/#49" alt="Pychota, mniam">
+			<item emot="no">mniam</item>
+			<item emot="no">pycha</item>
+			<item emot="no">mniaam</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#50" alt="Piwo">
+			<item emot="no">piwo</item>
+			<item emot="no">piwko</item>
+			<item emot="yes">(B)</item>
+			<item emot="yes">[piwo]</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#51" alt="Wino">
+			<item emot="no">wino</item>
+			<item emot="no">winko</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#52" alt="Kawa">
+			<item emot="yes">[_]?</item>
+			<item emot="no">kawa</item>
+			<item emot="yes">C[C]</item>
+			<item emot="no">kawusia</item>
+			<item emot="no">kubek</item>
+			<item emot="no">kocham kawę</item>
+			<item emot="no">kocham_kawę</item>
+			<item emot="no">kocham kawe</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#53" alt="Hamburger">
+			<item emot="no">hamburger</item>
+			<item emot="no">cheeseburger</item>
+			<item emot="no">mc donalds</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#54" alt="Piwosz">
+			<item emot="no">piwosz</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#55" alt="Drinkuje">
+			<item emot="no">drinkuje</item>
+			<item emot="no">szybki_drink</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#56" alt="Jem obiad">
+			<item emot="no">keks</item>
+			<item emot="no">jem</item>
+			<item emot="no">je_pizze</item>
+			<item emot="yes">[jem]</item>
+			<item emot="no">obiad</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#57" alt="Soczek">
+			<item emot="no">soczek</item>
+			<item emot="no">dziwnie_spragniony</item>
+			<item emot="no">sok</item>
+		</smiley>
+	</smileys>
+	<smileys category="Kostiumy">
+		<smiley res="smileys.dll/GIF/#58" alt="Kozia bródka w okularach">
+			<item emot="yes">:)&gt;</item>
+			<item emot="no">mężczyzna</item>
+			<item emot="no">mezczyzna</item>
+			<item emot="yes">::man::</item>
+			<item emot="yes">::homme::</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#59" alt="Absolwent">
+			<item emot="no">absolwent</item>
+			<item emot="yes">::graduate::</item>
+			<item emot="yes">::gediplomeerd::</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#60" alt="Czarownik">
+			<item emot="yes">8&lt;:-)</item>
+			<item emot="no">czarodziej</item>
+			<item emot="no">czarownik</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#61" alt="Szczęśliwy pirat">
+			<item emot="yes">P)</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#62" alt="Piracki przywódca">
+			<item emot="no">pirat</item>
+		</smiley>
+	</smileys>
+	<smileys category="Literki cyferki" />
+	<smileys category="Luzak">
+		<smiley res="smileys.dll/GIF/#63" alt="Luzak">
+			<item emot="yes">-8)</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#64" alt="Luzak z fają">
+			<item emot="no">faja</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#65" alt="Cfaniak">
+			<item emot="no">cfaniak</item>
+			<item emot="no">cwaniak</item>
+			<item emot="no">cwaniak2</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#66" alt="Cool">
+			<item emot="no">cool</item>
+			<item emot="yes">[cool]</item>
+		</smiley>
+	</smileys>
+	<smileys category="Miłość">
+		<smiley res="smileys.dll/GIF/#67" alt="Pani Jola będzie z Tobą marzyć..." hidden="yes">
+			<item emot="no">cycki</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#68" alt="Stanik z wozu - koniom lżej?" hidden="yes">
+			<item emot="no">cycuchy</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#69" alt="Uścisk">
+			<item emot="no">uścisk</item>
+			<item emot="no">uscisk</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#70" alt="Przytul mnie">
+			<item emot="no">przytul</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#71" alt="Usta pełne miłości">
+			<item emot="no">miłosne usta</item>
+			<item emot="no">milosne_usta</item>
+			<item emot="no">miłosne_usta</item>
+			<item emot="no">milosne usta</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#72" alt="Zjedz mnie">
+			<item emot="no">zjedz mnie</item>
+			<item emot="no">zjedz_mnie</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#73" alt="Serduszko">
+			<item emot="no">serduszko</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#74" alt="Serca w oczach">
+			<item emot="yes">&amp;-)</item>
+			<item emot="no">oczy_serca</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#75" alt="Lalka">
+			<item emot="no">lalka</item>
+			<item emot="no">laleczka</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#76" alt="Serce">
+			<item emot="yes">&lt;3</item>
+			<item emot="yes">::heart::</item>
+			<item emot="yes">::hart::</item>
+			<item emot="yes">::hou::</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#77" alt="Zakochany">
+			<item emot="no">zakochany</item>
+			<item emot="no">serca1</item>
+			<item emot="no">kocham</item>
+			<item emot="yes">*IN LOVE*</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#78" alt="Miłosny trójkącik">
+			<item emot="no">miłość_trójkąt</item>
+			<item emot="no">milosc_trojkat</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#79" alt="Zadurzony">
+			<item emot="no">zadurzony</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#80" alt="Pocałunek">
+			<item emot="yes">:-*</item>
+			<item emot="yes">:{}</item>
+			<item emot="yes">:-{}</item>
+			<item emot="no">buzki</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#81" alt="Serduszka">
+			<item emot="no">serduszka</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#82" alt="Cmok">
+			<item emot="no">cmok</item>
+			<item emot="no">buzi</item>
+			<item emot="no">buziak</item>
+			<item emot="no">cmok2</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#83" alt="Miłość">
+			<item emot="no">miłość</item>
+			<item emot="yes">(L)</item>
+			<item emot="no">love</item>
+			<item emot="no">milosc</item>
+			<item emot="yes">::love::</item>
+			<item emot="yes">::couer::</item>
+			<item emot="yes">::aime::</item>
+			<item emot="yes">[love]</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#84" alt="Dziecko">
+			<item emot="no">dziecko</item>
+			<item emot="no">dzidzia</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#85" alt="Latające serduszka">
+			<item emot="no">serduszka2</item>
+			<item emot="no">serduszka 2</item>
+			<item emot="no">małe serduszka</item>
+			<item emot="no">male serduszka</item>
+			<item emot="no">małe_serduszka</item>
+			<item emot="no">male_serduszka</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#86" alt="Pełnokrwiste usta">
+			<item emot="no">usta</item>
+			<item emot="yes">[usta]</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#87" alt="Całus">
+			<item emot="no">całus</item>
+			<item emot="no">pocałunek</item>
+			<item emot="no">calus</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#88" alt="Plemnik">
+			<item emot="no">plemnik</item>
+			<item emot="no">plemniczek</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#89" alt="Zakochani">
+			<item emot="no">zakochani</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#90" alt="Laska">
+			<item emot="no">laska</item>
+			<item emot="no">laseczka</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#91" alt="Serducho">
+			<item emot="no">serducho</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#92" alt="Buja w obłokach">
+			<item emot="no">buja w obłokach</item>
+			<item emot="no">buja_obloki</item>
+			<item emot="no">buja_obłoki</item>
+			<item emot="no">buja_w_obłokach</item>
+			<item emot="no">buja w oblokach</item>
+			<item emot="no">buja_w_oblokach</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#93" alt="Para przygłupów">
+			<item emot="no">para przygłupów</item>
+			<item emot="no">para_przyglupow</item>
+			<item emot="no">para_przygłupów</item>
+			<item emot="no">para przyglupow</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#94" alt="Zakochana para">
+			<item emot="no">para</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#95" alt="Samotnik">
+			<item emot="no">samotnik</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#96" alt="Niemowlak">
+			<item emot="no">niemowlak</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#97" alt="Gwiezdny trening kamasustry" hidden="yes">
+			<item emot="no">sex</item>
+			<item emot="no">seks</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#98" alt="List miłosny">
+			<item emot="no">list miłosny</item>
+			<item emot="no">list_milosny</item>
+			<item emot="no">list_miłosny</item>
+			<item emot="no">list milosny</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#99" alt="Wielki pocałunek">
+			<item emot="yes">;*</item>
+			<item emot="yes">;-*</item>
+			<item emot="no">cmok hot</item>
+			<item emot="no">cmok_hot</item>
+			<item emot="no">kiss</item>
+			<item emot="yes">[kiss]</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#100" alt="Oczy zakochanego">
+			<item emot="no">miłość_oczy</item>
+			<item emot="no">milosc_oczy</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#101" alt="Ogromny pocałunek">
+			<item emot="no">ogromny pocałunek</item>
+			<item emot="no">ogromny_pocalunek</item>
+			<item emot="no">ogromny pocalunek</item>
+			<item emot="no">ogromny_pocałunek</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#102" alt="Kocham Cię">
+			<item emot="no">kocham cię</item>
+			<item emot="no">kocham_cie</item>
+			<item emot="no">kocham cie</item>
+			<item emot="no">kocham_cię</item>
+			<item emot="no">i love you</item>
+			<item emot="no">i_love_you</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#103" alt="Głaskopociechy">
+			<item emot="no">głaszcze</item>
+			<item emot="no">glaszcze</item>
+			<item emot="no">głaszczę</item>
+			<item emot="no">pocieszanie</item>
+			<item emot="no">nie martw sie</item>
+			<item emot="no">nie martw się</item>
+			<item emot="no">nie_martw_się</item>
+			<item emot="no">pocieszenie</item>
+			<item emot="no">pocieszacz</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#104" alt="Bukiet kwiatów">
+			<item emot="yes">@}-</item>
+			<item emot="no">bukiet</item>
+			<item emot="no">kwiaty</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#105" alt="Mrugacz">
+			<item emot="no">mrugacz</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#106" alt="Transparent z sercem">
+			<item emot="no">serce_transparent</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#107" alt="Ona-Jego">
+			<item emot="no">onajego</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#108" alt="Ciąża">
+			<item emot="no">ciąża</item>
+			<item emot="no">ciaza</item>
+			<item emot="no">w_ciąży</item>
+			<item emot="no">w_ciazy</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#109" alt="Kolacja przy świecy">
+			<item emot="no">kolacja</item>
+			<item emot="no">kolacja_świeca</item>
+			<item emot="no">kolacja_swieca</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#110" alt="Zawstydzony, zakłopotany">
+			<item emot="no">zawstydzony</item>
+			<item emot="no">zakłopotany</item>
+			<item emot="yes">:*)</item>
+			<item emot="no">skromny</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#111" alt="Wstydniś">
+			<item emot="no">wstydniś</item>
+			<item emot="no">wstydnis</item>
+		</smiley>
+	</smileys>
+	<smileys category="Minki">
+		<smiley res="smileys.dll/GIF/#112" alt="Krótki język">
+			<item emot="yes">;p</item>
+			<item emot="yes">:p</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#113" alt="Ali G in da Poland">
+			<item emot="no">wazuuup</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#114" alt="Język na wardze">
+			<item emot="yes">;-p</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#115" alt="Pomarańczowy gośc z językiem">
+			<item emot="yes">:pp</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#116" alt="Z jęzorem">
+			<item emot="no">z jęzorem</item>
+			<item emot="no">z jezorem</item>
+			<item emot="no">z_jęzorem</item>
+			<item emot="no">z_jezorem</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#117" alt="Pokazał język">
+			<item emot="no">pokazał język</item>
+			<item emot="no">pokazal jezyk</item>
+			<item emot="no">pokazał_język</item>
+			<item emot="no">pokazal_jezyk</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#118" alt="Pokazać język">
+			<item emot="yes">:-PPP</item>
+			<item emot="yes">:-PPPP</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#119" alt="Macha językiem">
+			<item emot="yes">:P~</item>
+			<item emot="yes">:-P~</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#120" alt="Pokazał język">
+			<item emot="yes">:PP</item>
+			<item emot="yes">:PPP</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#121" alt="Długi język">
+			<item emot="yes">:PPPP</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#122" alt="Wesoły">
+			<item emot="no">wesoły</item>
+			<item emot="no">wesoly</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#123" alt="Macha językiem w pionie">
+			<item emot="yes">;PP</item>
+			<item emot="yes">;PPP</item>
+			<item emot="yes">;PPPP</item>
+			<item emot="yes">;PPPPP</item>
+			<item emot="yes">;PPPPPP</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#124" alt="Macha w poziomie">
+			<item emot="yes">;-P</item>
+			<item emot="yes">;-PP</item>
+			<item emot="yes">;-PPP</item>
+			<item emot="yes">;-PPPP</item>
+			<item emot="yes">;-PPPPP</item>
+			<item emot="yes">;-PPPPPP</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#125" alt="Znudzony">
+			<item emot="no">znudzony</item>
+			<item emot="no">zmeczony</item>
+			<item emot="yes">8-[</item>
+			<item emot="yes">8-|</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#126" alt="Zniesmaczony">
+			<item emot="yes">:-/</item>
+			<item emot="yes">;-/</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#127" alt="Zniesmaczony">
+			<item emot="yes">:/</item>
+			<item emot="yes">:-/</item>
+			<item emot="no">zniesmaczony</item>
+			<item emot="yes">;/</item>
+			<item emot="yes">8-s</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#128" alt="Pokazać komuś język">
+			<item emot="yes">:-P</item>
+			<item emot="yes">:-p</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#129" alt="Marzyciel">
+			<item emot="no">marzyciel</item>
+			<item emot="no">oczy</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#130" alt="Krzywy">
+			<item emot="yes">:-\</item>
+			<item emot="no">krzywy</item>
+			<item emot="no">uoee</item>
+			<item emot="no">stres</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#131" alt="Wymachiwać językiem">
+			<item emot="yes">;P</item>
+		</smiley>
+	</smileys>
+	<smileys category="Muzyka">
+		<smiley res="smileys.dll/GIF/#132" alt="Słuchawkowiec pospolity">
+			<item emot="no">słuchawki</item>
+			<item emot="no">sluchawki</item>
+			<item emot="no">muza</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#133" alt="Nutka nie jest malutka">
+			<item emot="no">nutka</item>
+			<item emot="no">muzyka</item>
+			<item emot="yes">::music::</item>
+			<item emot="yes">::muziek::</item>
+		</smiley>
+	</smileys>
+	<smileys category="Natura">
+		<smiley res="smileys.dll/GIF/#134" alt="Kwiatek">
+			<item emot="no">kwiatek</item>
+			<item emot="no">kwiatuszek</item>
+			<item emot="yes">[kwiatek]</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#135" alt="Słonko">
+			<item emot="no">słonko</item>
+			<item emot="no">slonko</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#136" alt="Zimno na śniegu">
+			<item emot="no">zimno</item>
+			<item emot="no">śnieg</item>
+			<item emot="no">snieg</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#137" alt="Deszcz">
+			<item emot="no">leje</item>
+			<item emot="no">deszcz</item>
+			<item emot="no">pada</item>
+		</smiley>
+	</smileys>
+	<smileys category="Pawie oczka">
+		<smiley res="smileys.dll/GIF/#138" alt="Pierd" hidden="yes">
+			<item emot="no">pierd</item>
+			<item emot="no">pierdzę</item>
+			<item emot="no">pierdze</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#139" alt="Żygi" hidden="yes">
+			<item emot="no">żygi</item>
+			<item emot="no">zygi</item>
+		</smiley>
+	</smileys>
+	<smileys category="Różne">
+		<smiley res="smileys.dll/GIF/#140" alt="Ufoludek">
+			<item emot="no">ufoludek</item>
+			<item emot="no">ufok</item>
+			<item emot="no">alien</item>
+			<item emot="no">obcy</item>
+			<item emot="no">ufo</item>
+			<item emot="yes">@-)</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#141" alt="Lotnik">
+			<item emot="no">lotnik</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#142" alt="Murarz">
+			<item emot="no">murarz</item>
+			<item emot="no">cegła</item>
+			<item emot="no">cegla</item>
+			<item emot="no">ściana</item>
+			<item emot="no">sciana</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#143" alt="Ganja">
+			<item emot="no">ganja</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#144" alt="Unia europejska">
+			<item emot="no">europa</item>
+			<item emot="no">unia europejska</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#145" alt="Jabłuszko">
+			<item emot="no">jabłko</item>
+			<item emot="no">jablko</item>
+			<item emot="yes">::apple::</item>
+			<item emot="yes">::appel::</item>
+			<item emot="yes">::pomme::</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#146" alt="Zegar">
+			<item emot="no">zegar</item>
+			<item emot="no">czas</item>
+			<item emot="no">clock</item>
+			<item emot="yes">[czas]</item>
+			<item emot="no">w8</item>
+		</smiley>
+	</smileys>
+	<smileys category="Skoczki">
+		<smiley res="smileys.dll/GIF/#147" alt="Jupi">
+			<item emot="no">jupi</item>
+		</smiley>
+	</smileys>
+	<smileys category="Smutek">
+		<smiley res="smileys.dll/GIF/#148" alt="Zawiedziony">
+			<item emot="yes">:e</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#149" alt="Płacze">
+			<item emot="yes">:&apos;(=</item>
+			<item emot="yes">;((((</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#150" alt="Ryczy">
+			<item emot="yes">;-(</item>
+			<item emot="yes">:,(</item>
+			<item emot="no">chlip</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#151" alt="Beczy">
+			<item emot="yes">:&apos;(</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#152" alt="Smutny">
+			<item emot="no">smutny</item>
+			<item emot="no">zasmucony</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#153" alt="Smutnawy">
+			<item emot="yes">:-&lt;</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#154" alt="We łzach">
+			<item emot="yes">:~-(</item>
+			<item emot="yes">;-((((((</item>
+			<item emot="yes">;-(((((((</item>
+			<item emot="no">łzy</item>
+			<item emot="no">lzy</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#155" alt="Płacze">
+			<item emot="no">płacze</item>
+			<item emot="no">placze</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#156" alt="Zawiedziony i smutny">
+			<item emot="yes">:-e</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#157" alt="Smutek">
+			<item emot="no">smutek</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#158" alt="Smutny">
+			<item emot="yes">:-C</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#159" alt="Nostalgik">
+			<item emot="yes">&lt;:-\</item>
+			<item emot="no">cholera</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#160" alt="Ryczek">
+			<item emot="yes">:.C(</item>
+			<item emot="yes">;((((((</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#161" alt="Zaśliniony">
+			<item emot="no">zaśliniony</item>
+			<item emot="no">zasliniony</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#162" alt="Smutanolozogicznie znostalgilozowany">
+			<item emot="yes">X:(</item>
+			<item emot="no">maruda</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#163" alt="Płaczliwy">
+			<item emot="no">płaczliwy</item>
+			<item emot="no">placzliwy</item>
+			<item emot="no">rozpacza</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#164" alt="Bardzo smutny">
+			<item emot="yes">:-((</item>
+			<item emot="yes">*WHINING*</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#165" alt="beczy">
+			<item emot="no">beczy</item>
+			<item emot="no">beksa</item>
+			<item emot="yes">[beksa]</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#166" alt="Ryczy">
+			<item emot="no">ryczy</item>
+			<item emot="yes">:((((</item>
+			<item emot="yes">:(((((</item>
+			<item emot="no">buu</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#167" alt="Zaryczany">
+			<item emot="yes">;-(((</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#168" alt="Płacze">
+			<item emot="yes">;(</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#169" alt="Nie ma radości">
+			<item emot="no">smutas</item>
+			<item emot="no">zalamka</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#170" alt="Nos do góry">
+			<item emot="no">nos_góra</item>
+			<item emot="no">nos_gora</item>
+			<item emot="no">obrażony</item>
+			<item emot="no">obrazony</item>
+			<item emot="no">foch</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#171" alt="ojojoj">
+			<item emot="no">ojojoj</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#172" alt="Smutnowłosiasty">
+			<item emot="no">smutnowłosiasty</item>
+			<item emot="no">smutnowlosiasty</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#173" alt="Rozczarowany">
+			<item emot="yes">8-(</item>
+			<item emot="no">rozczarowany</item>
+			<item emot="no">zawiedziony</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#174" alt="Wychodzę">
+			<item emot="no">wychodzę</item>
+			<item emot="no">idzie_sobie</item>
+			<item emot="no">wychodze</item>
+			<item emot="no">idzie sobie</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#175" alt="Brak miejsca">
+			<item emot="no">brak miejsca</item>
+			<item emot="no">brak_miejsca</item>
+		</smiley>
+	</smileys>
+	<smileys category="Sport">
+		<smiley res="smileys.dll/GIF/#176" alt="Piłka nożna">
+			<item emot="no">piłka nożna</item>
+			<item emot="no">noga</item>
+			<item emot="no">nożówka</item>
+			<item emot="no">pilka nozna</item>
+			<item emot="no">piłka_nożna</item>
+			<item emot="no">pilka_nozna</item>
+			<item emot="no">piłka:obrona</item>
+			<item emot="no">pilka:obrona</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#177" alt="Piłka ręczna">
+			<item emot="no">piłka ręczna</item>
+			<item emot="no">szczypiorniak</item>
+			<item emot="no">pilka reczna</item>
+			<item emot="no">piłka_ręczna</item>
+			<item emot="no">pilka_reczna</item>
+			<item emot="no">gool</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#178" alt="Boks">
+			<item emot="no">boks2</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#179" alt="Paker, siłacz">
+			<item emot="no">paker</item>
+			<item emot="no">silacz</item>
+			<item emot="no">siłacz</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#180" alt="Chodziaż">
+			<item emot="no">chodziaż</item>
+			<item emot="no">tuptup</item>
+			<item emot="no">chodziaz</item>
+			<item emot="no">tup tup</item>
+			<item emot="no">tup</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#181" alt="Bije, biją">
+			<item emot="no">bije</item>
+			<item emot="no">boks</item>
+			<item emot="no">biją</item>
+			<item emot="no">bija</item>
+			<item emot="no">bójka</item>
+			<item emot="no">bojka</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#182" alt="Tańczę">
+			<item emot="no">tańczę</item>
+			<item emot="no">tancze</item>
+			<item emot="no">tańcze</item>
+			<item emot="no">tanczę</item>
+		</smiley>
+	</smileys>
+	<smileys category="Strach">
+		<smiley res="smileys.dll/GIF/#183" alt="Pomocy !">
+			<item emot="no">pomocy</item>
+			<item emot="no">help</item>
+			<item emot="no">pomóż</item>
+			<item emot="no">pomoz</item>
+			<item emot="no">ratunku</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#184" alt="Włosy stają dęba ze strachu">
+			<item emot="yes">=:-O</item>
+			<item emot="no">krzyk</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#185" alt="Boję się">
+			<item emot="yes">8-O</item>
+			<item emot="no">boję się</item>
+			<item emot="no">boje sie</item>
+			<item emot="no">boję_się</item>
+			<item emot="no">boje_sie</item>
+			<item emot="no">boje się</item>
+			<item emot="no">boje_się</item>
+			<item emot="yes">8O</item>
+			<item emot="no">boisie</item>
+		</smiley>
+	</smileys>
+	<smileys category="Śmiech">
+		<smiley res="smileys.dll/GIF/#186" alt="LOL">
+			<item emot="no">lol2</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#187" alt="Chichoczę">
+			<item emot="yes">:-D</item>
+			<item emot="no">chichot</item>
+			<item emot="yes">*GIGGLING*</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#188" alt="Buhaha">
+			<item emot="no">buhaha</item>
+			<item emot="yes">:-))))</item>
+			<item emot="yes">:-)))))</item>
+			<item emot="no">radocha</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#189" alt="Buhahahaha">
+			<item emot="yes">:-)))</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#190" alt="Śmieszne">
+			<item emot="yes">:-))</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#191" alt="Cieszy się na całego">
+			<item emot="yes">&lt;^O^&gt;</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#192" alt="Hi-hi ha-ha hejże hola">
+			<item emot="yes">~L~</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#193" alt="Rolling on floor laughing">
+			<item emot="no">rotfl</item>
+			<item emot="no">ROTFL</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#194" alt="Hahaha">
+			<item emot="no">hahaha</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#195" alt="Beczy ze śmiechu">
+			<item emot="yes">;-D</item>
+			<item emot="yes">;-d</item>
+			<item emot="yes">&gt;:D</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#196" alt="Laughing out loud">
+			<item emot="yes">lol</item>
+			<item emot="yes">LOL</item>
+			<item emot="no">lol</item>
+			<item emot="no">LOL</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#197" alt="Pękać ze śmiechu">
+			<item emot="no">śmiech_rozsadza</item>
+			<item emot="no">smiech_rozsadza</item>
+			<item emot="yes">:-))))))</item>
+			<item emot="yes">:-)))))))</item>
+			<item emot="yes">:-))))))))</item>
+		</smiley>
+	</smileys>
+	<smileys category="Śpioch">
+		<smiley res="smileys.dll/GIF/#198" alt="Śpię">
+			<item emot="no">śpię</item>
+			<item emot="no">spie</item>
+			<item emot="no">spię</item>
+			<item emot="no">śpie</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#199" alt="Ziewa">
+			<item emot="no">ziewa</item>
+			<item emot="no">ziew</item>
+			<item emot="yes">:o</item>
+			<item emot="yes">:-o</item>
+			<item emot="no">ziewam</item>
+			<item emot="yes">[ziewam]</item>
+			<item emot="no">ziewa2</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#200" alt="Śpioch">
+			<item emot="no">śpioch</item>
+			<item emot="no">spioch</item>
+			<item emot="yes">[śpioch]</item>
+			<item emot="yes">[spioch]</item>
+		</smiley>
+	</smileys>
+	<smileys category="Święta" />
+	<smileys category="Uśmiech">
+		<smiley res="smileys.dll/GIF/#201" alt="Wielkie oczy z uśmiechem">
+			<item emot="yes">(8))</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#202" alt="Złowieszczy / sarkastyczny uśmiech">
+			<item emot="yes">&gt;)</item>
+			<item emot="yes">:&gt;</item>
+			<item emot="yes">;&gt;</item>
+			<item emot="yes">:-&gt;</item>
+			<item emot="yes">;-&gt;</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#203" alt="Uśmiech dookoła twarzy">
+			<item emot="no">uśmiech_obraca</item>
+			<item emot="no">usmiech_obraca</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#204" alt="Szeroki uśmiech">
+			<item emot="yes">:D</item>
+			<item emot="yes">:d</item>
+			<item emot="no">green_szeroki</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#205" alt="Mr.Green mruga">
+			<item emot="yes">;-))))</item>
+			<item emot="yes">;-)))))</item>
+			<item emot="yes">;-))))))</item>
+			<item emot="yes">;-)))))))</item>
+			<item emot="no">zeby5</item>
+			<item emot="no">zęby5</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#206" alt="Szeroki uśmiech z mrugnięciem">
+			<item emot="yes">;D</item>
+			<item emot="yes">;d</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#207" alt="Mr.Green-haha">
+			<item emot="no">green_haha</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#208" alt="Szczerbaty Mr.Green">
+			<item emot="no">green_szczerba</item>
+			<item emot="no">dentysta</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#209" alt="Mr.Green-rotfl">
+			<item emot="no">green_rotfl</item>
+			<item emot="no">green_roftl</item>
+			<item emot="no">rotfl3</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#210" alt="Mr.Green-akurat">
+			<item emot="no">green_akurat</item>
+			<item emot="no">green_oko</item>
+			<item emot="no">figielek</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#211" alt="Okularnik">
+			<item emot="no">okularnik</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#212" alt="Rotfl2">
+			<item emot="no">rotfl2</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#213" alt="Pokazał zęby">
+			<item emot="no">zęby</item>
+			<item emot="no">zeby</item>
+			<item emot="no">iii</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#214" alt="Jest ok! ojjjj... jest źle">
+			<item emot="no">ok_bu</item>
+			<item emot="no">ok_nie</item>
+			<item emot="no">zab</item>
+			<item emot="no">ząb</item>
+			<item emot="no">pięść</item>
+			<item emot="no">piesc</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#215" alt="Uśmiechnięty Mr.Green w wersji 3d">
+			<item emot="yes">:))))</item>
+			<item emot="yes">:)))))</item>
+			<item emot="yes">:]</item>
+			<item emot="yes">:-]</item>
+			<item emot="yes">;]</item>
+			<item emot="yes">;-]</item>
+			<item emot="no">haha</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#216" alt="Mr.Green-zakłopotanie">
+			<item emot="no">green_zakłopotany</item>
+			<item emot="no">green_zaklopotany</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#217" alt="Uśmiech wielkiej głowy">
+			<item emot="yes">(:-)</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#218" alt="Mr.Green-parasol">
+			<item emot="no">green_parasol</item>
+			<item emot="no">parasol</item>
+			<item emot="no">parasolka</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#219" alt="Mr.Green-błazen">
+			<item emot="no">green_błazen</item>
+			<item emot="no">green_blazen</item>
+			<item emot="no">wyśmiewacz</item>
+			<item emot="no">wysmiewacz</item>
+			<item emot="no">dokuczacz</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#220" alt="Mr.Green-kwiatek">
+			<item emot="no">green_kwiatek</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#221" alt="Mr.Green-impreza">
+			<item emot="no">green_impreza</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#222" alt="Mr.Green-meksykanin">
+			<item emot="no">green_meksykanin</item>
+			<item emot="no">green_sombrero</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#223" alt="Mr.Green-pająk">
+			<item emot="no">green_pająk</item>
+			<item emot="no">green_pajak</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#224" alt="Mr.Green-UFO">
+			<item emot="no">green_ufo</item>
+			<item emot="no">green_ufoludek</item>
+			<item emot="no">green_ufol</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#225" alt="Mr.Green na plaży">
+			<item emot="no">green_plaża</item>
+			<item emot="no">green_plaza</item>
+			<item emot="no">plaża</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#226" alt="Mr.Green-dziecko">
+			<item emot="no">green_dziecko</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#227" alt="Respekt">
+			<item emot="no">respekt</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#228" alt="Uśmiech z zębami">
+			<item emot="yes">:-E</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#229" alt="Oh yes!">
+			<item emot="no">oh_yes</item>
+		</smiley>
+	</smileys>
+	<smileys category="Wariat">
+		<smiley res="smileys.dll/GIF/#230" alt="Głowa kręciołkowa">
+			<item emot="no">urwanie glowy</item>
+			<item emot="no">urwanie głowy</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#231" alt="Głupek">
+			<item emot="no">głupek</item>
+			<item emot="no">glupek</item>
+			<item emot="no">jestem z głupkiem</item>
+			<item emot="no">głupi</item>
+			<item emot="no">glupi</item>
+			<item emot="no">bonus:głupek</item>
+			<item emot="no">bonus:glupek</item>
+		</smiley>
+	</smileys>
+	<smileys category="Wojna">
+		<smiley res="smileys.dll/GIF/#232" alt="Bicz2" hidden="yes">
+			<item emot="no">bicz2</item>
+			<item emot="no">bonus:bicz</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#233" alt="Snajper">
+			<item emot="no">snajper</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#234" alt="Dresik po remanencie!?">
+			<item emot="no">dresik</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#235" alt="Killer">
+			<item emot="no">killer</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#236" alt="Młotek" hidden="yes">
+			<item emot="no">młotek</item>
+			<item emot="no">mlotek</item>
+			<item emot="yes">::hammer::</item>
+			<item emot="yes">::hamer::</item>
+		</smiley>
+	</smileys>
+	<smileys category="Spik">
+		<smiley res="smileys.dll/PNG/#237" alt="uśmiech z czuprynką">
+			<item emot="yes">=:)</item>
+			<item emot="yes">=:-)</item>
+		</smiley>
+		<smiley res="smileys.dll/PNG/#238" alt="uśmiech">
+			<item emot="yes">:)</item>
+			<item emot="yes">:-)</item>
+		</smiley>
+		<smiley res="smileys.dll/PNG/#239" alt="mrugnięcie">
+			<item emot="yes">;)</item>
+		</smiley>
+		<smiley res="smileys.dll/PNG/#240" alt="mrugnięcie">
+			<item emot="yes">;))</item>
+			<item emot="yes">;)))</item>
+		</smiley>
+		<smiley res="smileys.dll/PNG/#241" alt="komórka">
+			<item emot="no">komorka</item>
+			<item emot="no">komórka</item>
+			<item emot="no">komóra</item>
+			<item emot="no">komora</item>
+			<item emot="yes">[komorka]</item>
+		</smiley>
+		<smiley res="smileys.dll/PNG/#242" alt="List">
+			<item emot="no">list</item>
+			<item emot="no">poczta</item>
+			<item emot="yes">::letter::</item>
+			<item emot="yes">::brief::</item>
+			<item emot="yes">::lettre::</item>
+			<item emot="no">mail</item>
+			<item emot="no">[mail]</item>
+		</smiley>
+		<smiley res="smileys.dll/PNG/#243" alt="mówię">
+			<item emot="no">mowie</item>
+			<item emot="no">mówie</item>
+			<item emot="no">mowię</item>
+			<item emot="no">mówię</item>
+		</smiley>
+		<smiley res="smileys.dll/PNG/#244" alt="pogawędka">
+			<item emot="no">czat</item>
+		</smiley>
+		<smiley res="smileys.dll/PNG/#245" alt="szeroki uśmiech">
+			<item emot="yes">:))</item>
+		</smiley>
+		<smiley res="smileys.dll/PNG/#246" alt="bardzo szeroki uśmiech">
+			<item emot="yes">:E</item>
+		</smiley>
+		<smiley res="smileys.dll/PNG/#247" alt="ogromnie szeroki uśmiech">
+			<item emot="yes">:)))</item>
+		</smiley>
+		<smiley res="smileys.dll/PNG/#248" alt="uśmiech szczerbatego">
+			<item emot="no">szczerba</item>
+		</smiley>
+		<smiley res="smileys.dll/PNG/#249" alt="okularnik">
+			<item emot="yes">8=</item>
+			<item emot="no">okulary</item>
+			<item emot="yes">::glasses::</item>
+			<item emot="yes">::bril::</item>
+			<item emot="yes">::lunettes::</item>
+		</smiley>
+		<smiley res="smileys.dll/PNG/#250" alt="zakochany">
+			<item emot="yes">&amp;)</item>
+		</smiley>
+		<smiley res="smileys.dll/PNG/#251">
+			<item emot="yes">???</item>
+			<item emot="yes">[??]</item>
+		</smiley>
+		<smiley res="smileys.dll/PNG/#252">
+			<item emot="yes">??</item>
+			<item emot="yes">[?]</item>
+		</smiley>
+		<smiley res="smileys.dll/PNG/#253">
+			<item emot="yes">!!!</item>
+			<item emot="yes">[!]</item>
+		</smiley>
+		<smiley res="smileys.dll/PNG/#254">
+			<item emot="yes">!!</item>
+		</smiley>
+		<smiley res="smileys.dll/PNG/#255" alt="twarz bez wyrazu">
+			<item emot="yes">|:|</item>
+		</smiley>
+		<smiley res="smileys.dll/PNG/#256" alt="skupiony">
+			<item emot="yes">:I</item>
+			<item emot="yes">:-I</item>
+		</smiley>
+		<smiley res="smileys.dll/PNG/#257" alt="zacięte usta">
+			<item emot="yes">:|</item>
+		</smiley>
+		<smiley res="smileys.dll/PNG/#258" alt="zdziwiony">
+			<item emot="yes">&gt;:|</item>
+		</smiley>
+		<smiley res="smileys.dll/PNG/#259" alt="zniesmaczony">
+			<item emot="yes">:\</item>
+		</smiley>
+		<smiley res="smileys.dll/PNG/#260" alt="smutno zniesmaczony">
+			<item emot="yes">&lt;:(</item>
+			<item emot="yes">&lt;:-(</item>
+		</smiley>
+		<smiley res="smileys.dll/PNG/#261" alt="smutny">
+			<item emot="yes">:(</item>
+			<item emot="yes">:-(</item>
+		</smiley>
+		<smiley res="smileys.dll/PNG/#262" alt="płacze">
+			<item emot="yes">:(((</item>
+			<item emot="yes">:-(((</item>
+		</smiley>
+		<smiley res="smileys.dll/PNG/#263" alt="bardzo smutny">
+			<item emot="yes">:((</item>
+		</smiley>
+		<smiley res="smileys.dll/PNG/#264" alt="bardzo zdziwiony">
+			<item emot="yes">|-o</item>
+		</smiley>
+		<smiley res="smileys.dll/PNG/#265" alt="ziewa">
+			<item emot="yes">:O</item>
+			<item emot="yes">:-O</item>
+		</smiley>
+		<smiley res="smileys.dll/PNG/#266" alt="śpi">
+			<item emot="yes">%-|</item>
+		</smiley>
+		<smiley res="smileys.dll/PNG/#267" alt="ziewa ostentacyjnie">
+			<item emot="yes">:@</item>
+			<item emot="yes">:-@</item>
+		</smiley>
+		<smiley res="smileys.dll/PNG/#268" alt="zły">
+			<item emot="yes">:[</item>
+		</smiley>
+		<smiley res="smileys.dll/PNG/#269" alt="stop">
+			<item emot="no">stop</item>
+			<item emot="no">onie</item>
+			<item emot="yes">[stop]</item>
+		</smiley>
+		<smiley res="smileys.dll/PNG/#270" alt="zawstydzony">
+			<item emot="yes">:y</item>
+			<item emot="yes">:-y</item>
+		</smiley>
+		<smiley res="smileys.dll/PNG/#271" alt="opad szczęki">
+			<item emot="yes">:7</item>
+			<item emot="yes">:-7</item>
+		</smiley>
+		<smiley res="smileys.dll/PNG/#272" alt="świnka">
+			<item emot="yes">:8</item>
+		</smiley>
+		<smiley res="smileys.dll/PNG/#273" alt="bomba">
+			<item emot="no">bomba</item>
+		</smiley>
+		<smiley res="smileys.dll/PNG/#274" alt="zielony ze złości">
+			<item emot="yes">&gt;:(</item>
+			<item emot="yes">&gt;:-(</item>
+		</smiley>
+		<smiley res="smileys.dll/PNG/#275" alt="zły z profilu">
+			<item emot="yes">(.n)</item>
+		</smiley>
+		<smiley res="smileys.dll/PNG/#276" alt="szpieg">
+			<item emot="yes">8-)</item>
+		</smiley>
+		<smiley res="smileys.dll/PNG/#277" alt="luzak">
+			<item emot="yes">-8-)</item>
+		</smiley>
+		<smiley res="smileys.dll/PNG/#278" alt="pirat">
+			<item emot="yes">P-)</item>
+		</smiley>
+		<smiley res="smileys.dll/PNG/#279" alt="pająk">
+			<item emot="no">pajak</item>
+			<item emot="no">spider</item>
+			<item emot="no">spider man</item>
+		</smiley>
+		<smiley res="smileys.dll/PNG/#280" alt="niebiański aniołek">
+			<item emot="yes">O8)</item>
+		</smiley>
+		<smiley res="smileys.dll/PNG/#281" alt="aniołek">
+			<item emot="yes">0:)</item>
+		</smiley>
+		<smiley res="smileys.dll/PNG/#282" alt="diabełek">
+			<item emot="yes">&gt;:&gt;</item>
+		</smiley>
+		<smiley res="smileys.dll/PNG/#283" alt="język">
+			<item emot="yes">:P</item>
+		</smiley>
+		<smiley res="smileys.dll/PNG/#284" alt="kwadratowa twarz">
+			<item emot="yes">[:]</item>
+		</smiley>
+		<smiley res="smileys.dll/PNG/#285" alt="nawijka">
+			<item emot="no">nawijka</item>
+		</smiley>
+		<smiley res="smileys.dll/PNG/#286" alt="róża">
+			<item emot="yes">@-&gt;-</item>
+			<item emot="yes">@-&gt;-&gt;-</item>
+			<item emot="no">róża</item>
+			<item emot="no">roza</item>
+			<item emot="no">roża</item>
+			<item emot="no">róza</item>
+		</smiley>
+		<smiley res="smileys.dll/PNG/#287" alt="całus">
+			<item emot="yes">:*</item>
+			<item emot="no">kamila</item>
+			<item emot="no">Kamila</item>
+		</smiley>
+		<smiley res="smileys.dll/PNG/#288" alt="serduszko">
+			<item emot="no">serce</item>
+			<item emot="yes">[serce]</item>
+		</smiley>
+		<smiley res="smileys.dll/PNG/#289" alt="mikrofon">
+			<item emot="no">mikrofon</item>
+		</smiley>
+		<smiley res="smileys.dll/PNG/#290" alt="kamera">
+			<item emot="no">kamera</item>
+		</smiley>
+		<smiley res="smileys.dll/PNG/#291" alt="słuchawka">
+			<item emot="no">słuchawka</item>
+		</smiley>
+	</smileys>
+	<smileys category="Zdziwienie">
+		<smiley res="smileys.dll/GIF/#292" alt="Zszokowany">
+			<item emot="no">szok</item>
+			<item emot="yes">*SHOCKED*</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#293" alt="wow">
+			<item emot="no">wow</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#294" alt="Blee">
+			<item emot="no">ble</item>
+			<item emot="no">blee</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#295" alt="Źle to widzę">
+			<item emot="no">źle to widzę</item>
+			<item emot="no">zle to widze</item>
+			<item emot="no">źle_to_widzę</item>
+			<item emot="no">zle_to_widze</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#296" alt="Co???!!!">
+			<item emot="no">co?!</item>
+			<item emot="yes">?!</item>
+			<item emot="yes">??!!</item>
+			<item emot="yes">???!!!</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#297" alt="Co?">
+			<item emot="no">co?</item>
+			<item emot="no">co</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#298" alt="Zdziwko">
+			<item emot="no">zdziwko</item>
+			<item emot="yes">?-|</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#299" alt="Zdziwiony z krzywym ryjkiem">
+			<item emot="yes">:-s</item>
+			<item emot="no">hmmm</item>
+			<item emot="yes">:S</item>
+			<item emot="no">bezradny</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#300" alt="Wzrusza ramionami">
+			<item emot="no">ramiona</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#301" alt="Dziwnie zmartwiony">
+			<item emot="no">zmartwiony</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#302" alt="smilie_conf">
+			<item emot="no">zdziwiony</item>
+			<item emot="yes">*SURPRISED*</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#303" alt="Burza mózgów">
+			<item emot="no">myśliciel</item>
+			<item emot="no">mysliciel</item>
+			<item emot="no">mysli</item>
+			<item emot="no">mysli2</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#304" alt="Szczęka">
+			<item emot="no">szczęka</item>
+			<item emot="no">szczeka</item>
+			<item emot="yes">aaaaaaaa</item>
+			<item emot="yes">aaaaaaa</item>
+			<item emot="yes">aaaaaa</item>
+			<item emot="no">aaa</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#305" alt="Co jest?">
+			<item emot="no">co jest?</item>
+			<item emot="no">co jest</item>
+			<item emot="no">co_jest?</item>
+			<item emot="no">co_jest</item>
+		</smiley>
+	</smileys>
+	<smileys category="Złość">
+		<smiley res="smileys.dll/GIF/#306" alt="Strasznie zły typ">
+			<item emot="yes">|&gt;:(|</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#307" alt="Jestem obrażony!">
+			<item emot="yes">):(</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#308" alt="Młotkiem po głowie" hidden="yes">
+			<item emot="no">młotkiem</item>
+			<item emot="no">mlotkiem</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#309" alt="Zagryzę Cię!">
+			<item emot="no">gryzę</item>
+			<item emot="no">gryze</item>
+			<item emot="no">am</item>
+			<item emot="no">gryz</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#310" alt="Gość rzucający kompem">
+			<item emot="no">komp_rzut</item>
+			<item emot="no">rzut kompem</item>
+			<item emot="no">rzut_kompem</item>
+			<item emot="no">rozwal kompa2</item>
+			<item emot="no">rozwal_kompa2</item>
+			<item emot="no">rk</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#311" alt="Rozwal kompa">
+			<item emot="no">rozwal kompa</item>
+			<item emot="no">rozwal_kompa</item>
+			<item emot="no">komp_młotek</item>
+			<item emot="no">komp_mlotek</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#312" alt="Zezłościłem się">
+			<item emot="no">złość</item>
+			<item emot="no">zlosc</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#313" alt="Jestem zły">
+			<item emot="yes">&gt;:-&lt;</item>
+			<item emot="no">wkurzony</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#314" alt="Zły">
+			<item emot="no">zły</item>
+			<item emot="no">zly</item>
+			<item emot="yes">[zly]</item>
+			<item emot="yes">[zły]</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#315" alt="Kłótnia w innym języku">
+			<item emot="no">kłótnia2</item>
+			<item emot="no">klotnia2</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#316" alt="Podbite oczy">
+			<item emot="no">podbite_oczy</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#317" alt="Wściekły aż wybuchł">
+			<item emot="no">wściekły_wybuch</item>
+			<item emot="no">wsciekly_wybuch</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#318" alt="Szatkownica">
+			<item emot="no">szatkownica</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#319" alt="Kłótnia">
+			<item emot="no">kłótnia</item>
+			<item emot="no">klotnia</item>
+			<item emot="no">hałas</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#320" alt="Zły z zębami">
+			<item emot="yes">&gt;:E</item>
+			<item emot="no">bzly</item>
+			<item emot="no">bzły</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#321" alt="Zły">
+			<item emot="yes">:-[</item>
+			<item emot="yes">&gt;&lt;</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#322" alt="Pomarańczowy trup">
+			<item emot="yes">#-(</item>
+			<item emot="no">trup</item>
+			<item emot="yes">X-)</item>
+			<item emot="yes">x-)</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#323" alt="Wrrrr!">
+			<item emot="yes">wrrrr!</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#324" alt="Pokój">
+			<item emot="no">peace2</item>
+			<item emot="no">pokój2</item>
+			<item emot="no">pokoj2</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#325" alt="Zgrzytanie zębami">
+			<item emot="yes">&gt;:EE</item>
+			<item emot="no">wnerw</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#326" alt="Złośliwie gadam">
+			<item emot="yes">(&amp;</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#327" alt="Trupia czaszka">
+			<item emot="no">czaszka</item>
+			<item emot="no">czacha</item>
+			<item emot="yes">::skull::</item>
+			<item emot="yes">::schedel::</item>
+			<item emot="yes">[czaszka]</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#328" alt="Wściekła trzęsiawa">
+			<item emot="yes">&gt;-&lt;</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#329" alt="Zdenerwowany">
+			<item emot="no">zdenerwowany</item>
+			<item emot="no">nerwus</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#330" alt="Klnie">
+			<item emot="no">klnie</item>
+			<item emot="no">bluzga</item>
+			<item emot="no">bluzgi</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#331" alt="Kopniak w dupe" hidden="yes">
+			<item emot="no">kopniak</item>
+			<item emot="no">kop od tyłu</item>
+			<item emot="no">kop_od_tyłu</item>
+			<item emot="no">kop od tylu</item>
+			<item emot="no">kop_od_tylu</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#332" alt="Uderzenie wałkiem" hidden="yes">
+			<item emot="no">wałek</item>
+			<item emot="no">walek</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#333" alt="Oblać kogoś kubłem wody" hidden="yes">
+			<item emot="no">wodą w twarz</item>
+			<item emot="no">oblac woda</item>
+			<item emot="no">oblać_wodą</item>
+			<item emot="no">oblac_woda</item>
+			<item emot="no">oblać wodą</item>
+			<item emot="no">wodą_w_twarz</item>
+			<item emot="no">woda w twarz</item>
+			<item emot="no">woda_w_twarz</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#334" alt="Zapakować kogoś do skrzynki" hidden="yes">
+			<item emot="no">skrzynka</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#335" alt="Zmiana nastroju">
+			<item emot="no">nastrój</item>
+			<item emot="no">nastroj</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#336" alt="Spalić się ze złości">
+			<item emot="no">spalić się</item>
+			<item emot="no">spalic sie</item>
+			<item emot="no">spalić_się</item>
+			<item emot="no">spalic_sie</item>
+			<item emot="no">palę się</item>
+			<item emot="no">pale sie</item>
+			<item emot="no">palę_się</item>
+			<item emot="no">pale_sie</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#337" alt="Rozpacz">
+			<item emot="no">rozpacz</item>
+			<item emot="no">glowa w stol</item>
+			<item emot="no">głową_w_stół</item>
+			<item emot="no">glowa_w_stol</item>
+			<item emot="no">głową w stół</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#338" alt="Trupia czaszka, śmierć">
+			<item emot="no">trupia czaszka</item>
+			<item emot="no">trupia_czaszka</item>
+			<item emot="no">śmierć</item>
+			<item emot="no">smierc</item>
+			<item emot="no">czacha szalona</item>
+			<item emot="no">czacha_szalona</item>
+			<item emot="yes">::death::</item>
+			<item emot="yes">::dood::</item>
+		</smiley>
+	</smileys>
+	<smileys category="Znaki zodiaku" />
+	<smileys category="Zwierzęta">
+		<smiley res="smileys.dll/GIF/#339" alt="Nietoperek">
+			<item emot="yes">&lt;^..^&gt;</item>
+			<item emot="yes">^&apos;^</item>
+			<item emot="yes">::bat::</item>
+			<item emot="yes">::vleermuis::</item>
+			<item emot="yes">::chauve-souris::</item>
+			<item emot="yes">::chauvesouris::</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#340" alt="Kłapouchy królik">
+			<item emot="no">królik</item>
+			<item emot="no">klapouchy</item>
+			<item emot="no">kłapouchy</item>
+			<item emot="no">krolik</item>
+			<item emot="no">króliczek</item>
+			<item emot="no">kroliczek</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#341" alt="Kotek">
+			<item emot="yes">(=^;^=)</item>
+			<item emot="no">kot rudy</item>
+			<item emot="no">kot_rudy</item>
+			<item emot="yes">::cat::</item>
+			<item emot="yes">::kat::</item>
+			<item emot="yes">::chat::</item>
+			<item emot="no">kot</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#342" alt="Mućka">
+			<item emot="no">mućka</item>
+			<item emot="no">mucka</item>
+			<item emot="no">krowa</item>
+			<item emot="no">krasula</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#343" alt="Piesek">
+			<item emot="no">piesek</item>
+			<item emot="no">psiuńcio</item>
+			<item emot="no">psiuncio</item>
+			<item emot="yes">::dog::</item>
+			<item emot="yes">::hond::</item>
+			<item emot="yes">::chien::</item>
+			<item emot="no">pies</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#344" alt="Pływająca rybka">
+			<item emot="no">rybka</item>
+			<item emot="no">rybka_plywa</item>
+			<item emot="no">rybka_pływa</item>
+			<item emot="yes">::fish::</item>
+			<item emot="yes">::vis::</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#345" alt="Emotikonowy dinozaur">
+			<item emot="no">emodino</item>
+			<item emot="yes">::dinosaur::</item>
+			<item emot="yes">::dinosaurus::</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#346" alt="Świnka">
+			<item emot="yes">:-8</item>
+			<item emot="no">świnka</item>
+			<item emot="no">prosiaczek</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#347" alt="Pingwin">
+			<item emot="no">pingwin</item>
+			<item emot="yes">::linux::</item>
+			<item emot="yes">::tux::</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#348" alt="Wąż">
+			<item emot="yes">=====:}</item>
+			<item emot="yes">~~~~~8}</item>
+			<item emot="yes">~~~~8}</item>
+			<item emot="yes">~&lt;:^~~^~~^</item>
+			<item emot="no">wąż</item>
+			<item emot="no">waz</item>
+			<item emot="yes">::cobra::</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#349" alt="Pająk">
+			<item emot="no">pająk</item>
+		</smiley>
+	</smileys>
+	<smileys category="Życie codzienne">
+		<smiley res="smileys.dll/GIF/#350" alt="Czytaj to!">
+			<item emot="no">czytaj</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#351" alt="Gaduła">
+			<item emot="no">gaduła</item>
+			<item emot="no">gadula</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#352" alt="Uczeń">
+			<item emot="no">nauka</item>
+			<item emot="no">uczeń</item>
+			<item emot="no">uczen</item>
+			<item emot="no">świerszczyk</item>
+			<item emot="no">swierszczyk</item>
+			<item emot="no">lekturka</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#353" alt="Piszę na komputerze">
+			<item emot="no">piszę</item>
+			<item emot="no">pisze</item>
+			<item emot="no">stukam</item>
+			<item emot="no">chatownik</item>
+			<item emot="no">gra</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#354" alt="Rozmowa">
+			<item emot="no">rozmowa</item>
+			<item emot="no">pogaduchy</item>
+			<item emot="no">gaducha</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#355" alt="Kibelek">
+			<item emot="no">wc</item>
+			<item emot="no">kibel</item>
+			<item emot="no">odlać się</item>
+			<item emot="no">odlac sie</item>
+			<item emot="no">sram</item>
+			<item emot="no">kupa</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#356" alt="Jeżdzę na rowerze">
+			<item emot="no">rower</item>
+			<item emot="no">bicykl</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#357" alt="Kąpiel">
+			<item emot="no">wanna</item>
+			<item emot="no">kąpiel</item>
+			<item emot="no">kapiel</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#358" alt="Za kierownicą">
+			<item emot="no">kierowca</item>
+			<item emot="no">autko</item>
+			<item emot="no">auto</item>
+			<item emot="no">samochód</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#359" alt="Myję zęby">
+			<item emot="no">myję zęby</item>
+			<item emot="no">myje zeby</item>
+			<item emot="no">myję_zęby</item>
+			<item emot="no">myje_zeby</item>
+			<item emot="no">myj</item>
+			<item emot="no">myj_zęby</item>
+			<item emot="no">myj zęby</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#360" alt="Smarkanko">
+			<item emot="no">smarka</item>
+			<item emot="no">smarkam</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#361" alt="Podlewanie kwiatków">
+			<item emot="no">podlewanie</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#362" alt="Prysznic">
+			<item emot="no">prysznic</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#363" alt="Wyprowadzka psa na spacer">
+			<item emot="no">pies_spacer</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#364" alt="Wyjazd">
+			<item emot="no">wyjazd</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#365" alt="Wyłącza światło">
+			<item emot="no">światło</item>
+			<item emot="no">wylaczam_swiatlo</item>
+			<item emot="no">wyłączam_światło</item>
+			<item emot="no">swiatlo</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#366" alt="Wyrzuca śmieci">
+			<item emot="no">śmieci</item>
+			<item emot="no">smieci</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#367" alt="Czyta gazete">
+			<item emot="no">czyta gazete</item>
+			<item emot="no">czyta_gazete</item>
+			<item emot="no">gazeta</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#368" alt="Przerwa na papierosa">
+			<item emot="no">papieros</item>
+			<item emot="yes">:-Q~</item>
+			<item emot="no">zapal</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#369" alt="Palacz">
+			<item emot="no">palacz</item>
+			<item emot="yes">:-!</item>
+			<item emot="yes">:-Q</item>
+			<item emot="no">daj ognia</item>
+			<item emot="no">ćmik</item>
+			<item emot="no">cmik</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#370" alt="Rozmawia przez telefon">
+			<item emot="no">telefon</item>
+			<item emot="no">phone</item>
+			<item emot="yes">::telephone::</item>
+			<item emot="yes">::phone::</item>
+			<item emot="yes">::telefoon::</item>
+			<item emot="yes">[telefon]</item>
+			<item emot="no">telefon2</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#371" alt="Pomysł">
+			<item emot="no">pomysł</item>
+			<item emot="no">pomysl</item>
+		</smiley>
+		<smiley res="smileys.dll/GIF/#372" alt="Żarówa">
+			<item emot="no">żarówa</item>
+			<item emot="no">zarowa</item>
+			<item emot="yes">::jabber::</item>
+			<item emot="yes">::lamp::</item>
+			<item emot="yes">::lampe::</item>
+		</smiley>
+	</smileys>
+	<ver>2</ver>
+</wpmsg>

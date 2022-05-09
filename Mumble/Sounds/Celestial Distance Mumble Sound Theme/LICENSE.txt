@@ -1,0 +1,3 @@
+These files were created by lucasonic (https://sourceforge.net/apps/phpbb/mumble/memberlist.php?mode=viewprofile&u=807) and are licensed under the Creative Commons License "CC BY-SA 4.0 International" (https://creativecommons.org/licenses/by-sa/4.0/deed.en_US).
+
+More Soundpacks and a description how to use them can be fount at http://mumble.sourceforge.net/Soundpacks.

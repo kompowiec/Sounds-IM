@@ -1,0 +1,7 @@
+1 - Outgoing Call
+2 - Incoming call
+3 - Call connected
+4 - Hang up call
+5 - Disconnected
+6 - Connecting call
+
