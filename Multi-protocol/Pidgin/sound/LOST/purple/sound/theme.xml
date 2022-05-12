@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<theme author="adium2pidgin conventer" name="LOST" type="sound">
+  <description>Generated at 2011-06-06 13:04 in adium2pidgin theme convert</description>
+  <event file="blast_doors.mp3" name="logout"/>
+  <event file="code_ok.mp3" name="send_im"/>
+  <event file="timer_reset.mp3" name="first_im_recv"/>
+  <event file="timer_beep.mp3" name="im_recv"/>
+  <event file="flashback.mp3" name="login"/>
+</theme>

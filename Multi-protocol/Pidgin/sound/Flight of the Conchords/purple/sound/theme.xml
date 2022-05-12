@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<theme author="adium2pidgin conventer" name="Flight of the Conchords" type="sound">
+  <description>Generated at 2011-06-06 13:05 in adium2pidgin theme convert</description>
+  <event file="fotc_free-time.mp3" name="logout"/>
+  <event file="fotc_strum1.mp3" name="send_im"/>
+  <event file="fotc_chitchat.mp3" name="first_im_recv"/>
+  <event file="fotc_strum2.mp3" name="im_recv"/>
+  <event file="fotc_light-on.mp3" name="login"/>
+</theme>

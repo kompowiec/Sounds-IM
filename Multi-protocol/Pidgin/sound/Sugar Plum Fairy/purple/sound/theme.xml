@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<theme author="adium2pidgin conventer" name="Sugar Plum Fairy" type="sound">
+  <description>Generated at 2011-06-06 13:04 in adium2pidgin theme convert</description>
+  <event file="Off.mp3" name="logout"/>
+  <event file="Send.mp3" name="send_im"/>
+  <event file="New.mp3" name="first_im_recv"/>
+  <event file="Receive.mp3" name="im_recv"/>
+  <event file="On.mp3" name="login"/>
+</theme>

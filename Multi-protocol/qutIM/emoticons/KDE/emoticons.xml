@@ -1,0 +1,62 @@
+<?xml version='1.0'?>
+<messaging-emoticon-map>
+    <emoticon file="face-smile.png" >
+        <string>:)</string>
+        <string>:-)</string>
+    </emoticon>
+    <emoticon file="face-sad.png" >
+        <string>:(</string>
+        <string>:-(</string>
+    </emoticon>
+    <emoticon file="face-smile-big.png" >
+        <string>:D</string>
+        <string>:-D</string>
+    </emoticon>
+    <emoticon file="face-confused.png" >
+        <string>:s</string>
+    </emoticon>
+    <emoticon file="face-crying.png" >
+        <string>:'(</string>
+    </emoticon>
+    <emoticon file="face-devilish.png" >
+        <string>:@</string>
+    </emoticon>
+    <emoticon file="face-embarrassed.png" >
+        <string>:O</string>
+    </emoticon>
+    <emoticon file="face-glasses.png" >
+        <string>8)</string>
+        <string>8-)</string>
+    </emoticon>
+    <emoticon file="face-kiss.png" >
+        <string>:x</string>
+    </emoticon>
+    <emoticon file="face-laugh.png" >
+        <string>^_^</string>
+    </emoticon>
+    <emoticon file="face-plain.png" >
+        <string>:|</string>
+    </emoticon>
+    <emoticon file="face-raspberry.png" >
+        <string>:p</string>
+        <string>:P</string>
+        <string>:-p</string>
+        <string>:-P</string>
+    </emoticon>
+    <emoticon file="face-sleep.png" >
+        <string>:z</string>
+    </emoticon>
+    <emoticon file="face-surprise.png" >
+        <string>:o</string>
+    </emoticon>
+    <emoticon file="face-wink.png" >
+        <string>;)</string>
+        <string>;-)</string>
+    </emoticon>
+    <emoticon file="face-uncertain.png" >
+        <string>:\</string>
+    </emoticon>
+    <emoticon file="face-angel.png" >
+        <string>o:)</string>
+    </emoticon>
+</messaging-emoticon-map>

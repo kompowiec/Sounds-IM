@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+<defs>
+<linearGradient gradientTransform="matrix(.01578 0 0 .01613 .04463 1035.9598)" xlink:href="#linearGradient3806" id="linearGradient3819" y1="328.653" y2="650.487" x2="0" gradientUnits="userSpaceOnUse"/>
+<linearGradient id="linearGradient3806">
+<stop offset="0" stop-color="#fff6d5"/>
+<stop offset="1" stop-color="#fff6d5" stop-opacity="0"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(-1.11345 -1.15182 1.17395 -1.13485 11.80566 1073.6285)" xlink:href="#linearGradient3290-7" id="linearGradient3001" y1="9.079" x1="12.991" y2="12.485" gradientUnits="userSpaceOnUse" x2="16.581"/>
+<linearGradient id="linearGradient3290-7">
+<stop offset="0" stop-color="#ba0000"/>
+<stop offset="1" stop-color="#ff331e"/>
+</linearGradient>
+</defs>
+<g transform="translate(0 -1036.3622)">
+<path opacity=".3" direction="ltr" block-progression="tb" fill-rule="evenodd" color="#000000" d="m1,1042.3438 0,.1562 0,4.7188 0,.1562 .1562,0 13.6875,0 .1562,0 0-.1562 0-4.7188 0-.1562-.1562,0-13.6875,0-.1562,0z"/>
+<path opacity=".99" fill="url(#linearGradient3001)" fill-rule="evenodd" stroke="#a00000" stroke-width=".308" d="m14.8458,1046.208 0-4.7162-13.6915,0 0,4.7162z"/>
+<path opacity=".5" fill="url(#linearGradient3819)" fill-rule="evenodd" d="m15,1041.3622-14,0 0,1 14,0z"/>
+</g>
+</svg>
