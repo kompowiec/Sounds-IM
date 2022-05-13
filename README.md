@@ -4,40 +4,51 @@ sounds, emots, themes for users instant messengers
 
 # List
 * Multi-Protocol
-	* 1998.12.31 Pidgin
+	* 1998.12.31 Pidgin/Finch
 	* 2000.02.02 Miranda NG
 	* 2008 qutIM
 * 1988.08.xx IRC
 	* 1995.02.28 mIRC
-* 1996 SIP
-	* 2000 Ekiga
-	* 2002.08 Jami
-		* Customized
-			* 2003.08.29 Skype
 * 1999 XMPP
 	* 2001.07.07 Psi
 	* 2004.05.21 Gajim
 	*	2005.08.24 Google Talk
 	* 2009 Psi+
 	* ???? Spik
+	* ???? Swift
 		* Customized
 			* 2001.10.xx Tlen.pl
 			* 2009.02.24 WhatsApp
-*	1996.11.15 ICQ
-*	1997.05.xx AIM
-*	2005.09.02 Mumble
-* 1999.06.22 MSN messneger
-* 2000.08.15 Gadu-Gadu
-* 2003.08.29 Skype
-* 2006.03.21 Twitter
-* 2010.12.02 Viber
-* 2011.08.09 Facebook
-* 2011.08.xx Snapchat
-* 2013.05.15 Google hangouts
-* 2014.07.29 Signal
-* 2015.05.13 Discord
-* 2016.08.16 Google duo
-* 2016.08.21 Google allo
+* 1996 SIP
+	* 2000 Ekiga
+	* 2002.08 Jami
+		* Customized
+			* 2003.08.29 Skype
+* 2014 Matrix
+* 2014 Tox
+* LAN
+* P2P
+* Other
+	*	1996.11.15 ICQ
+	*	1997.05.xx AIM
+	* 1998.03.09 Yahoo! Messenger
+	* 1999.06.22 MSN messneger
+	* 1999.07.22 Windows Live Messenger
+	* 2000.08.15 Gadu-Gadu
+	* 2003.08.29 Skype
+	* 2005.08.01 BBM
+	*	2005.09.02 Mumble
+	* 2006.03.21 Twitter
+	* 2010.12.02 Viber
+	* 2011.08.09 Facebook
+	* 2011.08.xx Snapchat
+	* 2013.05.15 Google hangouts
+	* 2013.08.14 Telegram
+	* 2014.07.29 Signal
+	* 2015.05.13 Discord
+	* 2016.08.16 Google duo
+	* 2016.08.21 Google allo
+	* 2017.03.14 Microsoft teams
 
 About
 -----
