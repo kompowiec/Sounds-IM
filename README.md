@@ -7,6 +7,7 @@ sounds, emots, themes for users instant messengers
 	* 1998.12.31 Pidgin/Finch
 	* 2000.02.02 Miranda NG
 	* 2008 qutIM
+	* 2001.08.xx Kadu
 * 1988.08.xx IRC
 	* 1995.02.28 mIRC
 * 1999 XMPP
