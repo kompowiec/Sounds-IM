@@ -32,13 +32,14 @@ sounds, emots, themes for users instant messengers
 * Other
 	*	1996.11.15 ICQ
 	*	1997.05.xx AIM
+	*	2005.09.02 Mumble
 	* 1998.03.09 Yahoo! Messenger
 	* 1999.06.22 MSN messneger
 	* 1999.07.22 Windows Live Messenger
 	* 2000.08.15 Gadu-Gadu
+	* 2002.04.26 TeamSpeak
 	* 2003.08.29 Skype
 	* 2005.08.01 BBM
-	*	2005.09.02 Mumble
 	* 2006.03.21 Twitter
 	* 2010.12.02 Viber
 	* 2011.08.09 Facebook
